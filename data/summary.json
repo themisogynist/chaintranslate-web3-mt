@@ -1,0 +1,30 @@
+{
+  "source": "https://github.com/ethereum/ethereum-org-website",
+  "revision": "fb3514bd596848d74500429c43b955c999af839b",
+  "source_language": "English",
+  "target_language": "French",
+  "alignment": "exact shared localization file and key",
+  "candidate_pairs": 3337,
+  "matched_json_files": 85,
+  "duplicate_or_identical_pairs_removed": 204,
+  "seed": 42,
+  "splits": {
+    "train": {
+      "pairs": 512,
+      "available_pairs": 2240,
+      "files": 56
+    },
+    "validation": {
+      "pairs": 64,
+      "available_pairs": 138,
+      "files": 7
+    },
+    "test": {
+      "pairs": 32,
+      "available_pairs": 959,
+      "files": 4
+    }
+  },
+  "filtered_pairs_before_deduplication": 3541,
+  "unique_pairs_after_deduplication": 3337
+}

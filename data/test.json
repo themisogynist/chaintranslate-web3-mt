@@ -1,0 +1,290 @@
+[
+  {
+    "id": "cdda03b5f11bc4be",
+    "file": "learn-quizzes.json",
+    "key": "energy-consumption-5-prompt",
+    "source": "What does the regenerative finance (ReFi) community build on Ethereum?",
+    "reference": "Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "42b69c521edeb193",
+    "file": "learn-quizzes.json",
+    "key": "rollups-2-d-explanation",
+    "source": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.",
+    "reference": "La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "884a15bcaa21b5fd",
+    "file": "page-developers-tools-descriptions.json",
+    "key": "tool-circom-description",
+    "source": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.",
+    "reference": "Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools-descriptions.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools-descriptions.json"
+  },
+  {
+    "id": "6e7b69b1669a0621",
+    "file": "learn-quizzes.json",
+    "key": "what-is-ethereum-5-b-explanation",
+    "source": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.",
+    "reference": "Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "673ab94e261dcd05",
+    "file": "learn-quizzes.json",
+    "key": "payments-6-a-explanation",
+    "source": "True of Ethereum, but that is settlement speed, not programmability.",
+    "reference": "C'est vrai pour Ethereum, mais il s'agit de la vitesse de règlement, et non de la programmabilité.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "9c5f9bbaa78fd3e6",
+    "file": "learn-quizzes.json",
+    "key": "ethereum-vs-bitcoin-3-d-label",
+    "source": "Neither network places any limits on its supply",
+    "reference": "Aucun des deux réseaux n'impose de limites à son offre",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "29d5ee4767fc2718",
+    "file": "learn-quizzes.json",
+    "key": "what-is-ether-3-b-label",
+    "source": "If a staker tries to cheat the network, they risk losing their ETH",
+    "reference": "Si un staker essaie de tromper le réseau, il risque de perdre ses ETH",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "68adf251a0fe3c72",
+    "file": "learn-quizzes.json",
+    "key": "stablecoins-4-a-label",
+    "source": "It is a token that is tied to an asset in the real world",
+    "reference": "C'est un jeton qui est lié à un actif dans le monde réel",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "1b59ed3bd7dac14d",
+    "file": "learn-quizzes.json",
+    "key": "payments-6-d-explanation",
+    "source": "That describes central bank policy. Ethereum's issuance is predictable and no authority adjusts it.",
+    "reference": "Cela décrit la politique d'une banque centrale. L'émission d'Ethereum est prévisible et aucune autorité ne l'ajuste.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "6f58ec4ec68dc5cf",
+    "file": "learn-quizzes.json",
+    "key": "payments-1-c-explanation",
+    "source": "Stablecoins are built for steady value, not a set return. The network pays no interest on them.",
+    "reference": "Les stablecoins sont conçus pour conserver une valeur stable, et non pour offrir un rendement fixe. Le réseau ne verse aucun intérêt sur ces derniers.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "9e02102fb8ff556b",
+    "file": "learn-quizzes.json",
+    "key": "zkp-6-d-label",
+    "source": "STARKs slow down faster than SNARKs as the witness grows",
+    "reference": "Les STARK ralentissent plus rapidement que les SNARK à mesure que le témoin grandit",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "e3aa05e4fc4253e1",
+    "file": "learn-quizzes.json",
+    "key": "passed",
+    "source": "You passed the quiz!",
+    "reference": "Vous avez réussi le quiz !",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "cedc50baf9d7659b",
+    "file": "learn-quizzes.json",
+    "key": "gas-2-a-explanation",
+    "source": "Timing transactions during off-peak hours can lower gas costs.",
+    "reference": "Planifier les transactions pendant les heures creuses peut réduire les coûts de gaz.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "18d737010a0a1b5a",
+    "file": "learn-quizzes.json",
+    "key": "stablecoins-5-a-label",
+    "source": "Swap them with other tokens",
+    "reference": "Les échanger contre d'autres jetons",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "0dd24185451abc31",
+    "file": "learn-quizzes.json",
+    "key": "zkp-6-prompt",
+    "source": "What sets ZK-STARKs apart from ZK-SNARKs?",
+    "reference": "Qu'est-ce qui distingue les ZK-STARK des ZK-SNARK ?",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "d9bcc1a8661ec6f2",
+    "file": "learn-quizzes.json",
+    "key": "accounts-2-c-explanation",
+    "source": "Private keys stay safe because key derivation only runs one way, not because of the nonce.",
+    "reference": "Les clés privées restent en sécurité car la dérivation de clé ne fonctionne que dans un sens, et non grâce au nonce.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "c3cf1e8ddf098e6e",
+    "file": "learn-quizzes.json",
+    "key": "web3-4-prompt",
+    "source": "The term ‘Web3’ was first coined by:",
+    "reference": "Le terme « Web3 » a été inventé par :",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "f2e44b10b0d0de4e",
+    "file": "learn-quizzes.json",
+    "key": "merge-3-d-explanation",
+    "source": "The Merge happened later than this. October 31st is the day the Bitcoin Whitepaper was released.",
+    "reference": "La Fusion a eu lieu plus tard. Le 31 octobre correspond au jour de la publication du livre blanc de Bitcoin.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "40b90d95876a43b9",
+    "file": "learn-quizzes.json",
+    "key": "web3-3-b-explanation",
+    "source": "Web2 does not have native, built-in payments.",
+    "reference": "Le Web2 n'a pas de paiements natifs intégrés.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "d4a81b169d44ec5b",
+    "file": "learn-quizzes.json",
+    "key": "what-is-ethereum-6-d-label",
+    "source": "Every user re-uploads a copy of the blockchain each day",
+    "reference": "Chaque utilisateur téléverse à nouveau une copie de la chaîne de blocs chaque jour",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "84007bf351ca64f1",
+    "file": "page-ethereum-history-founder-and-ownership.json",
+    "key": "page-ethereum-history-founder-and-ownership-who-founded-ethereum-launch-description-6",
+    "source": "Ethereum was co-founded by 8 individuals who helped bring Ethereum to life.",
+    "reference": "Ethereum a été cofondé par 8 personnes qui ont contribué à donner vie à Ethereum.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-ethereum-history-founder-and-ownership.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-ethereum-history-founder-and-ownership.json"
+  },
+  {
+    "id": "0861da85255b1c27",
+    "file": "learn-quizzes.json",
+    "key": "what-are-apps-3-c-label",
+    "source": "Nothing: you take the risk and hope the stranger repays",
+    "reference": "Rien : vous prenez le risque et espérez que l'inconnu vous rembourse",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "c28a695bd266f772",
+    "file": "learn-quizzes.json",
+    "key": "energy-consumption-5-d-label",
+    "source": "Financial applications whose side effects benefit the environment",
+    "reference": "Applications financières dont les effets secondaires sont bénéfiques pour l'environnement",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "3c2a4295f7f09d69",
+    "file": "learn-quizzes.json",
+    "key": "payments-2-a-explanation",
+    "source": "No bank account is involved. This is why Ethereum reaches people in regions with limited banking infrastructure.",
+    "reference": "Aucun compte bancaire n'est impliqué. C'est pourquoi Ethereum est accessible aux personnes dans les régions où l'infrastructure bancaire est limitée.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "7349a9c5311939e6",
+    "file": "learn-quizzes.json",
+    "key": "blocks-1-d-label",
+    "source": "Ethereum can only process one transaction at a time, so they wait in line",
+    "reference": "Ethereum ne peut traiter qu'une seule transaction à la fois, elles attendent donc dans une file d'attente",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "0fed73800fc1ffbc",
+    "file": "learn-quizzes.json",
+    "key": "what-is-ether-4-c-label",
+    "source": "Collateral for crypto loans",
+    "reference": "Collatéral pour les prêts crypto",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "dd0d8f22e12a2913",
+    "file": "page-get-eth.json",
+    "key": "page-get-eth-description",
+    "source": "Ethereum isn't controlled by any single organization—it is decentralized.",
+    "reference": "Ethereum n'est contrôlé par aucune organisation unique : il est décentralisé.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-get-eth.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-get-eth.json"
+  },
+  {
+    "id": "41915bf2e4fe6ae0",
+    "file": "learn-quizzes.json",
+    "key": "scaling-staking-nodes-description",
+    "source": "How Ethereum grows beyond mainnet, and how validators and node operators keep the network running.",
+    "reference": "Comment Ethereum se développe au-delà du réseau principal, et comment les validateurs et les opérateurs de nœuds maintiennent le réseau en fonctionnement.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "d47763cd41be9d2e",
+    "file": "learn-quizzes.json",
+    "key": "scaling-4-c-label",
+    "source": "Make all rollups conform to the same method of security",
+    "reference": "Faire en sorte que tous les rollups se conforment à la même méthode de sécurité",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "2b48546095230832",
+    "file": "learn-quizzes.json",
+    "key": "security-4-a-explanation",
+    "source": "Ethereum transactions cannot be reversed. Anyone who tells you otherwise might be trying to scam you.",
+    "reference": "Les transactions Ethereum ne peuvent pas être annulées. Quiconque vous dit le contraire essaie peut-être de vous arnaquer.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "4b1e05b76f9221eb",
+    "file": "learn-quizzes.json",
+    "key": "evm-2-d-label",
+    "source": "Ethereum's state also holds a machine state that can execute arbitrary code",
+    "reference": "L'état d'Ethereum contient également un état de machine qui peut exécuter du code arbitraire",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  },
+  {
+    "id": "3ed5d62739035a0b",
+    "file": "learn-quizzes.json",
+    "key": "quizzes-subtitle",
+    "source": "Find out how well you understand Ethereum and cryptocurrencies. Are you ready to become an expert?",
+    "reference": "Découvrez à quel point vous comprenez Ethereum et les cryptomonnaies. Êtes-vous prêt à devenir un expert ?",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/learn-quizzes.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/learn-quizzes.json"
+  }
+]

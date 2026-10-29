@@ -1,0 +1,11 @@
+{
+  "complete": false,
+  "completed_models": [
+    "basic",
+    "mt5"
+  ],
+  "missing_models": [
+    "llama",
+    "gemma"
+  ]
+}

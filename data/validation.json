@@ -1,0 +1,578 @@
+[
+  {
+    "id": "babbc80a97eede89",
+    "file": "page-developers-index.json",
+    "key": "alt-eth-blocks",
+    "source": "Illustration of blocks being organized like an ETH symbol",
+    "reference": "Illustration de blocs organisés comme un symbole ETH",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "fd9489e22a69f039",
+    "file": "page-developers-index.json",
+    "key": "page-developers-language-desc",
+    "source": "Using Ethereum with familiar languages",
+    "reference": "Utiliser Ethereum avec des langages familiers",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "6db527e390750264",
+    "file": "page-videos.json",
+    "key": "page-videos-no-results",
+    "source": "No videos match your search.",
+    "reference": "Aucune vidéo ne correspond à votre recherche.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-videos.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-videos.json"
+  },
+  {
+    "id": "d59a36182dc15290",
+    "file": "glossary-tooltip.json",
+    "key": "erc-20-definition",
+    "source": "Is the standard set of rules that most tokens on Ethereum network are created with.",
+    "reference": "C'est l'ensemble standard de règles avec lesquelles la plupart des jetons sur le réseau Ethereum sont créés.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "997d166649a94eb0",
+    "file": "page-upgrades.json",
+    "key": "page-upgrades-merge-infographic-el",
+    "source": "Ethereum State: transactions, apps, contracts, balances",
+    "reference": "État d'Ethereum : transactions, applications, contrats, soldes",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-upgrades.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-upgrades.json"
+  },
+  {
+    "id": "309ef7ab01af346c",
+    "file": "glossary-tooltip.json",
+    "key": "mev-definition",
+    "source": "A mechanism prioritizing certain actions on a blockchain for a fee, influencing outcomes and the order of transactions.",
+    "reference": "Un mécanisme priorisant certaines actions sur une chaîne de blocs moyennant des frais, influençant les résultats et l'ordre des transactions.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "b08a1c907509e5f9",
+    "file": "page-developers-index.json",
+    "key": "page-developers-solidity-docs",
+    "source": "Read the Solidity docs",
+    "reference": "Lire la documentation Solidity",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "e26182081d5d100b",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-subcategory-oracles-external-data-title",
+    "source": "Oracles & external data",
+    "reference": "Oracles et données externes",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "18857a28d1a8817d",
+    "file": "page-developers-index.json",
+    "key": "page-developers-web3-desc",
+    "source": "How the web3 world of development is different",
+    "reference": "En quoi le monde du développement Web3 est différent",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "cd76a4eb1568dad9",
+    "file": "page-upgrades.json",
+    "key": "consensus-run-beacon-chain-desc",
+    "source": "Ethereum needs as many clients running as possible. Help with this Ethereum public good!",
+    "reference": "Ethereum a besoin d'autant de clients en cours d'exécution que possible. Aidez ce bien public d'Ethereum !",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-upgrades.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-upgrades.json"
+  },
+  {
+    "id": "e74bd89d9af13c8b",
+    "file": "component-browse-apps.json",
+    "key": "farcaster-description",
+    "source": "The social and community platform of crypto.",
+    "reference": "La plateforme sociale et communautaire de la crypto.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/component-browse-apps.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/component-browse-apps.json"
+  },
+  {
+    "id": "1257fec947925b9e",
+    "file": "page-videos.json",
+    "key": "page-videos-hero-description",
+    "source": "Explore videos covering Ethereum fundamentals, highlighting community stories, contextualizing research, exploring educational topics, and more.",
+    "reference": "Explorez des vidéos couvrant les fondamentaux d'Ethereum, mettant en lumière des histoires de la communauté, contextualisant la recherche, explorant des sujets éducatifs, et bien plus encore.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-videos.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-videos.json"
+  },
+  {
+    "id": "e6e4f96de0024f2d",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-subcategory-payments-defi-integration-title",
+    "source": "Payments & DeFi integration",
+    "reference": "Paiements et intégration DeFi",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "f9d998eb21a02f70",
+    "file": "page-privacy.json",
+    "key": "page-privacy-data-against-you-title",
+    "source": "When your personal data is used against you",
+    "reference": "Quand vos données personnelles sont utilisées contre vous",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "c3f60b6c7213150b",
+    "file": "page-developers-index.json",
+    "key": "page-developers-meta-desc",
+    "source": "Documentation, tutorials, and tools for developers building on Ethereum.",
+    "reference": "Documentation, tutoriels et outils pour les développeurs construisant sur Ethereum.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "84a57fa244263097",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-subcategory-execution-consensus-clients-title",
+    "source": "Execution & consensus clients",
+    "reference": "Clients d'exécution et de consensus",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "2745f81e5db8b643",
+    "file": "page-privacy.json",
+    "key": "page-privacy-nothing-to-hide-title",
+    "source": "Why \"I have nothing to hide\" misses the point",
+    "reference": "Pourquoi « je n'ai rien à cacher » passe à côté du problème",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "9ebcf797d77fdaf7",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-advanced-foundry-alt",
+    "source": "Cyfrin Updraft Advanced foundry course banner",
+    "reference": "Bannière du cours Foundry avancé Cyfrin Updraft",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "803c7e1b2df99535",
+    "file": "glossary-tooltip.json",
+    "key": "onchain-definition",
+    "source": "Refers to actions or transactions that happen on the blockchain and are publicly available.",
+    "reference": "Fait référence aux actions ou transactions qui se produisent sur la chaîne de blocs et qui sont accessibles au public.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "991528c80c1c00cb",
+    "file": "page-developers-index.json",
+    "key": "page-developers-ethskills-title",
+    "source": "Build onchain with agents",
+    "reference": "Construire onchain avec des agents",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "8380a07e32d8085a",
+    "file": "glossary-tooltip.json",
+    "key": "terminal-total-difficulty-term",
+    "source": "Terminal total difficulty (TTD)",
+    "reference": "Difficulté totale terminale (TTD)",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "e0a74fb08028eb7b",
+    "file": "page-privacy.json",
+    "key": "page-privacy-nothing-to-hide-description-1",
+    "source": "Privacy isn't about hiding. It's about freedom to explore, learn and be yourself without constant monitoring or judgement.",
+    "reference": "La confidentialité ne consiste pas à se cacher. Il s'agit de la liberté d'explorer, d'apprendre et d'être soi-même sans surveillance ni jugement constants.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "795b7d5ad68dd7ec",
+    "file": "page-upgrades.json",
+    "key": "consensus-beaconscan-desc",
+    "source": "Beacon Chain explorer - Etherscan for the consensus layer",
+    "reference": "Explorateur de la chaîne balise - Etherscan pour la couche de consensus",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-upgrades.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-upgrades.json"
+  },
+  {
+    "id": "b416e928a6f3fff7",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-foundry-fundamentals-desc",
+    "source": "Level up your Solidity development skills with Foundry and advanced web3 development concepts and tools.",
+    "reference": "Améliorez vos compétences en développement Solidity avec Foundry et des concepts et outils de développement Web3 avancés.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "2275e61fc069a9d2",
+    "file": "page-privacy.json",
+    "key": "page-privacy-metric-3-description",
+    "source": "faces scraped from the open web, without anyone's consent, by a single company (Clearview AI)",
+    "reference": "de visages extraits du Web ouvert, sans le consentement de quiconque, par une seule entreprise (Clearview AI)",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "34fe0c3a136ffbcd",
+    "file": "page-developers-index.json",
+    "key": "page-developers-evm-desc",
+    "source": "The computer that processes transactions",
+    "reference": "L'ordinateur qui traite les transactions",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "f37262d5407fcc5b",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-solidity-desc",
+    "source": "Solidity Programming is your gateway to web3 development in Ethereum compatible ecosystems.",
+    "reference": "La programmation Solidity est votre passerelle vers le développement Web3 dans les écosystèmes compatibles avec Ethereum.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "3699246c89a9a3aa",
+    "file": "page-developers-index.json",
+    "key": "page-developers-build-section-desc",
+    "source": "Everything you need to learn and build your first apps on Ethereum",
+    "reference": "Tout ce dont vous avez besoin pour apprendre et construire vos premières applications sur Ethereum",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "176dee597673d1d5",
+    "file": "page-privacy.json",
+    "key": "page-privacy-remember-data-title",
+    "source": "Remember: Data you share safely today does not sit still",
+    "reference": "N'oubliez pas : les données que vous partagez en toute sécurité aujourd'hui ne restent pas immobiles",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "80d3640efe003220",
+    "file": "page-developers-index.json",
+    "key": "page-developers-ethskills-msg-5",
+    "source": "set up a vault that grows my ETH while I sleep",
+    "reference": "configurer un coffre-fort qui fait fructifier mes ETH pendant que je dors",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "442c98a961da960b",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-advanced-foundry-desc",
+    "source": "Master web3 development techniques with Advanced Foundry for Solidity smart contract development.",
+    "reference": "Maîtrisez les techniques de développement Web3 avec Foundry avancé pour le développement de contrats intelligents Solidity.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "fcb6faac9f55dba4",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-subtitle",
+    "source": "Find the right resources faster and help elevate the builders who create the infrastructure our ecosystem relies on.",
+    "reference": "Trouvez les bonnes ressources plus rapidement et contribuez à mettre en valeur les constructeurs qui créent l'infrastructure sur laquelle repose notre écosystème.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "04b660327a04f24c",
+    "file": "page-developers-index.json",
+    "key": "page-developers-smart-contract-security-desc",
+    "source": "Security measures to consider during development of smart contracts",
+    "reference": "Mesures de sécurité à prendre en compte lors du développement de contrats intelligents",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "e9be4b21e6b5a8b3",
+    "file": "page-developers-index.json",
+    "key": "page-developers-intro-stack-desc",
+    "source": "An introduction to the Ethereum stack",
+    "reference": "Une introduction à la pile Ethereum",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "3c93fb2ef33128fb",
+    "file": "page-developers-index.json",
+    "key": "page-developers-gas-desc",
+    "source": "Ether needed to power transactions",
+    "reference": "L'ether nécessaire pour alimenter les transactions",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "b473883ad9f07a89",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-no-results",
+    "source": "No resources found. Try adjusting your search or filters.",
+    "reference": "Aucune ressource trouvée. Essayez de modifier votre recherche ou vos filtres.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "33025e2d564b4ecc",
+    "file": "page-privacy.json",
+    "key": "page-privacy-what-protects-card-1-description",
+    "source": "Privacy creates distance between your vulnerable moments and systems designed to exploit them.",
+    "reference": "La confidentialité crée une distance entre vos moments de vulnérabilité et les systèmes conçus pour les exploiter.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "eceb34fa06896944",
+    "file": "page-developers-index.json",
+    "key": "page-developers-get-help-desc",
+    "source": "If you are stuck or need help solving problems, be sure to ask for guidance.",
+    "reference": "Si vous êtes bloqué ou avez besoin d'aide pour résoudre des problèmes, n'hésitez pas à demander conseil.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "07bb0836ebbcf665",
+    "file": "component-browse-apps.json",
+    "key": "uniswap-description",
+    "source": "Swap your tokens for different ones globally.",
+    "reference": "Échangez vos jetons contre d'autres à l'échelle mondiale.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/component-browse-apps.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/component-browse-apps.json"
+  },
+  {
+    "id": "2c394c7459589beb",
+    "file": "page-developers-index.json",
+    "key": "page-developers-intro-ether-desc",
+    "source": "An introduction to cryptocurrency and Ether",
+    "reference": "Une introduction à la cryptomonnaie et à l'ether",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "fd3ec741c4563b4f",
+    "file": "page-privacy.json",
+    "key": "page-privacy-what-protects-card-2-description",
+    "source": "Privacy reduces the ability of algorithms to find your weak spots and use them against you.",
+    "reference": "La confidentialité réduit la capacité des algorithmes à trouver vos points faibles et à les utiliser contre vous.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "8538ee7fb726dda0",
+    "file": "page-privacy.json",
+    "key": "page-privacy-what-protects-card-3-title",
+    "source": "Fair access for all",
+    "reference": "Un accès équitable pour tous",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "d4ba62be4b1286bb",
+    "file": "glossary-tooltip.json",
+    "key": "hash-definition",
+    "source": "A fixed-length fingerprint of variable-size input, produced by a hash function. (See keccak-256 ).",
+    "reference": "Une empreinte de longueur fixe d'une entrée de taille variable, produite par une fonction de hachage. (Voir Keccak-256 ).",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "eb4b3e063d1d514e",
+    "file": "page-developers-index.json",
+    "key": "page-developers-networking-layer-desc",
+    "source": "Introduction to the Ethereum networking layer",
+    "reference": "Introduction à la couche réseau d'Ethereum",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "4fc357fe330dba1c",
+    "file": "page-privacy.json",
+    "key": "page-privacy-private-moments-title",
+    "source": "Selling your private moments",
+    "reference": "Vendre vos moments privés",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "97b40d2dcc473a7d",
+    "file": "page-developers-index.json",
+    "key": "page-developers-into-eth-desc",
+    "source": "An introduction to blockchain and Ethereum",
+    "reference": "Une introduction à la chaîne de blocs et à Ethereum",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "b4c185ddfa686dd9",
+    "file": "page-developers-index.json",
+    "key": "page-developers-speedrun-dex-desc",
+    "source": "Build a simple automated market maker, provide liquidity, and implement token swaps.",
+    "reference": "Créez un teneur de marché automatisé (AMM) simple, fournissez de la liquidité et implémentez des échanges de jetons.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "e8e7600833cda640",
+    "file": "page-developers-index.json",
+    "key": "page-developers-speedrunethereum-title",
+    "source": "Learn all the most important concepts by building on Ethereum",
+    "reference": "Apprenez tous les concepts les plus importants en construisant sur Ethereum",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "3fb207e931399839",
+    "file": "page-developers-index.json",
+    "key": "page-developers-evm-link",
+    "source": "The Ethereum virtual machine (EVM)",
+    "reference": "La machine virtuelle Ethereum (EVM)",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "6ec8b34fe80d42c4",
+    "file": "page-developers-index.json",
+    "key": "page-developers-transactions-desc",
+    "source": "The way Ethereum state changes",
+    "reference": "La façon dont l'état d'Ethereum change",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "287f7482b99a0ba2",
+    "file": "page-developers-index.json",
+    "key": "page-developers-learn-tutorials-desc",
+    "source": "Learn Ethereum development step-by-step from builders who have already done it.",
+    "reference": "Apprenez le développement sur Ethereum étape par étape avec des constructeurs qui l'ont déjà fait.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "650945aae679f20a",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-blockchain-basics-desc",
+    "source": "Learn how blockchains and smart contracts work, create a wallet, and sign your first transaction.",
+    "reference": "Découvrez comment fonctionnent les chaînes de blocs et les contrats intelligents, créez un portefeuille et signez votre première transaction.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "7ae25e9ddfe7435e",
+    "file": "page-privacy.json",
+    "key": "page-privacy-what-protects-card-1-title",
+    "source": "Room to make better choices",
+    "reference": "L'espace pour faire de meilleurs choix",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "375b184e94b9957d",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-solidity-title",
+    "source": "Solidity smart contract development",
+    "reference": "Développement de contrats intelligents Solidity",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "ec39523ac9d69c7c",
+    "file": "page-developers-index.json",
+    "key": "page-developers-course-solidity-alt",
+    "source": "Cyfrin Updraft Solidity smart contract development course banner",
+    "reference": "Bannière du cours de développement de contrats intelligents Solidity Cyfrin Updraft",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "614a62e94e76f142",
+    "file": "glossary-tooltip.json",
+    "key": "bridge-definition",
+    "source": "A blockchain bridge is used to transfer assets from one blockchain network to another.",
+    "reference": "Un pont de chaîne de blocs est utilisé pour transférer des actifs d'un réseau de chaîne de blocs à un autre.",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "ad941aee41f04303",
+    "file": "page-developers-index.json",
+    "key": "page-developers-data-structures-and-encoding-desc",
+    "source": "Introduction to the data structures and encoding schema used in the Ethereum stack",
+    "reference": "Introduction aux structures de données et au schéma d'encodage utilisés dans la pile Ethereum",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "effd67dce3d142c1",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-subcategory-mev-block-building-title",
+    "source": "MEV & block building",
+    "reference": "MEV et construction de blocs",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "99360f1e6d433607",
+    "file": "page-privacy.json",
+    "key": "page-privacy-targeting-title",
+    "source": "How targeting reaches vulnerability",
+    "reference": "Comment le ciblage atteint la vulnérabilité",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-privacy.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-privacy.json"
+  },
+  {
+    "id": "a5d0474f05f0b91a",
+    "file": "glossary-tooltip.json",
+    "key": "node-definition",
+    "source": "A software client that participates in the network. More on nodes and clients .",
+    "reference": "Un client logiciel qui participe au réseau. Plus d'informations sur les nœuds et les clients .",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/glossary-tooltip.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/glossary-tooltip.json"
+  },
+  {
+    "id": "240d7dc153654b1b",
+    "file": "page-developers-index.json",
+    "key": "page-developers-dev-env-desc",
+    "source": "IDEs that are suitable for dapp development",
+    "reference": "IDE adaptés au développement d'applications décentralisées (dapps)",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  },
+  {
+    "id": "5b3920067b7cbf8c",
+    "file": "page-developers-tools.json",
+    "key": "page-developers-tools-subcategory-governance-dao-tooling-title",
+    "source": "Governance & DAO tooling",
+    "reference": "Gouvernance et outils DAO",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-tools.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-tools.json"
+  },
+  {
+    "id": "bce3fc478d73dd0b",
+    "file": "page-upgrades.json",
+    "key": "page-upgrades-merge-infographic-alt-text",
+    "source": "Infographic illustrating how the Beacon Chain merges into Ethereum's execution layer during the transition from proof-of-work to proof-of-stake.",
+    "reference": "Infographie illustrant comment la chaîne balise fusionne avec la couche d'exécution d'Ethereum pendant la transition de la preuve de travail (PoW) à la preuve d'enjeu (PoS).",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-upgrades.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-upgrades.json"
+  },
+  {
+    "id": "36b49722f9989e93",
+    "file": "page-developers-index.json",
+    "key": "page-developers-ethskills-msg-3",
+    "source": "let my art earn royalties every time it resells",
+    "reference": "permettre à mon art de générer des redevances à chaque revente",
+    "source_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/en/page-developers-index.json",
+    "reference_url": "https://github.com/ethereum/ethereum-org-website/blob/fb3514bd596848d74500429c43b955c999af839b/src/intl/fr/page-developers-index.json"
+  }
+]

@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+.env
+.cache/
+results/checkpoints/
+*.log
+runs/
+.ipynb_checkpoints/
+*.safetensors
+*.pt
+*.bin
+*.sqlite*
+*.db
+*.npz
+*.npy
+.ruff_cache/

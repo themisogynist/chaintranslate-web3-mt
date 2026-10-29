@@ -1,0 +1,21 @@
+{
+  "model": "basic",
+  "model_id": "custom 2-layer encoder-decoder Transformer",
+  "parameters": 1177040,
+  "trainable_parameters": 1177040,
+  "adaptation": "trained from scratch, 30 epochs; minimum validation token loss",
+  "training_seconds": 134.99138026999935,
+  "tokenizer": "training-only SentencePiece BPE",
+  "pretrained_revision": null,
+  "bleu": 0.4447506926313862,
+  "chrf": 13.163359470459104,
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+  "test_pairs": 32,
+  "inference_seconds": 2.4920932840086607,
+  "device": "cpu",
+  "torch": "2.14.1+cpu",
+  "max_new_tokens": 96,
+  "decoding": "greedy, one beam",
+  "warmup_excluded": 1
+}

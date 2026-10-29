@@ -1,0 +1,74 @@
+[
+  {
+    "model": "basic",
+    "temperature": 0.5,
+    "pairs": 4,
+    "distinct_2": 0.9655172413793104,
+    "repeated_bigram_fraction": 0.034482758620689655,
+    "mean_words": 8.25,
+    "bleu": 0.8499620695642762,
+    "chrf": 14.383132503801937,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+  },
+  {
+    "model": "basic",
+    "temperature": 1.0,
+    "pairs": 4,
+    "distinct_2": 0.9111111111111111,
+    "repeated_bigram_fraction": 0.08888888888888889,
+    "mean_words": 12.25,
+    "bleu": 1.125327450022639,
+    "chrf": 14.120669046583853,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+  },
+  {
+    "model": "basic",
+    "temperature": 1.5,
+    "pairs": 4,
+    "distinct_2": 0.8876404494382022,
+    "repeated_bigram_fraction": 0.11235955056179775,
+    "mean_words": 23.25,
+    "bleu": 0.625829158752837,
+    "chrf": 17.85660374203053,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+  },
+  {
+    "model": "mt5",
+    "temperature": 0.5,
+    "pairs": 4,
+    "distinct_2": 0.9722222222222222,
+    "repeated_bigram_fraction": 0.027777777777777776,
+    "mean_words": 10.0,
+    "bleu": 1.691935740028565,
+    "chrf": 19.237218255861247,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+  },
+  {
+    "model": "mt5",
+    "temperature": 1.0,
+    "pairs": 4,
+    "distinct_2": 0.9245283018867925,
+    "repeated_bigram_fraction": 0.07547169811320754,
+    "mean_words": 14.25,
+    "bleu": 1.492857343068783,
+    "chrf": 20.562504395526478,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+  },
+  {
+    "model": "mt5",
+    "temperature": 1.5,
+    "pairs": 4,
+    "distinct_2": 0.9393939393939394,
+    "repeated_bigram_fraction": 0.06060606060606061,
+    "mean_words": 25.75,
+    "bleu": 0.4686386007629166,
+    "chrf": 21.94652461378566,
+    "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+    "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0"
+  }
+]

@@ -1,0 +1,321 @@
+CHAINTRANSLATE MODEL OUTPUTS
+
+MODEL: basic | ID: cdda03b5f11bc4be
+ENGLISH: What does the regenerative finance (ReFi) community build on Ethereum?
+FRENCH REFERENCE: Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?
+MODEL TRANSLATION: Quelle sur les réseaux Ethereum de la chaîne de blocs Ethereum
+
+MODEL: basic | ID: 42b69c521edeb193
+ENGLISH: Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.
+FRENCH REFERENCE: La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.
+MODEL TRANSLATION: La chaîne de blocs des frais de blocs et les réseaux de blocs et les réseaux de blocs et les réseaux de blocs et les réseaux de blocs
+
+MODEL: basic | ID: 884a15bcaa21b5fd
+ENGLISH: Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.
+FRENCH REFERENCE: Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.
+MODEL TRANSLATION: Signalent des jetons. Les opérateurs dans le contrôlezent de la communauté de la communauté)
+
+MODEL: basic | ID: 6e7b69b1669a0621
+ENGLISH: Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.
+FRENCH REFERENCE: Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.
+MODEL TRANSLATION: Signalité à joursis en ligne
+
+MODEL: basic | ID: 673ab94e261dcd05
+ENGLISH: True of Ethereum, but that is settlement speed, not programmability.
+FRENCH REFERENCE: C'est vrai pour Ethereum, mais il s'agit de la vitesse de règlement, et non de la programmabilité.
+MODEL TRANSLATION: Uni est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est un portefeuille est
+
+MODEL: basic | ID: 9c5f9bbaa78fd3e6
+ENGLISH: Neither network places any limits on its supply
+FRENCH REFERENCE: Aucun des deux réseaux n'impose de limites à son offre
+MODEL TRANSLATION: En savoir plus sur le réseau de retra
+
+MODEL: basic | ID: 29d5ee4767fc2718
+ENGLISH: If a staker tries to cheat the network, they risk losing their ETH
+FRENCH REFERENCE: Si un staker essaie de tromper le réseau, il risque de perdre ses ETH
+MODEL TRANSLATION: En savoir plus sur le réseau de la chaîne de blocs
+
+MODEL: basic | ID: 68adf251a0fe3c72
+ENGLISH: It is a token that is tied to an asset in the real world
+FRENCH REFERENCE: C'est un jeton qui est lié à un actif dans le monde réel
+MODEL TRANSLATION: En savoir plus sur le staking'unejaer un portefeuille est un portefeuille multi-chaîne.
+
+MODEL: basic | ID: 1b59ed3bd7dac14d
+ENGLISH: That describes central bank policy. Ethereum's issuance is predictable and no authority adjusts it.
+FRENCH REFERENCE: Cela décrit la politique d'une banque centrale. L'émission d'Ethereum est prévisible et aucune autorité ne l'ajuste.
+MODEL TRANSLATION: Signal une l'Ethereum. Vous de bord de blocs Ethereum.
+
+MODEL: basic | ID: 6f58ec4ec68dc5cf
+ENGLISH: Stablecoins are built for steady value, not a set return. The network pays no interest on them.
+FRENCH REFERENCE: Les stablecoins sont conçus pour conserver une valeur stable, et non pour offrir un rendement fixe. Le réseau ne verse aucun intérêt sur ces derniers.
+MODEL TRANSLATION: La plateforme de la chaîne de blocs d'un ayé sur les actifs numériques.
+
+MODEL: basic | ID: 9e02102fb8ff556b
+ENGLISH: STARKs slow down faster than SNARKs as the witness grows
+FRENCH REFERENCE: Les STARK ralentissent plus rapidement que les SNARK à mesure que le témoin grandit
+MODEL TRANSLATION: La chaîne de l'Ethereum (l2)
+
+MODEL: basic | ID: e3aa05e4fc4253e1
+ENGLISH: You passed the quiz!
+FRENCH REFERENCE: Vous avez réussi le quiz !
+MODEL TRANSLATION: Vous pouvez le monde
+
+MODEL: basic | ID: cedc50baf9d7659b
+ENGLISH: Timing transactions during off-peak hours can lower gas costs.
+FRENCH REFERENCE: Planifier les transactions pendant les heures creuses peut réduire les coûts de gaz.
+MODEL TRANSLATION: Signalent des jetons. Les opérateurs. Lesl2), les stablecoins et les stablecoins. Aucuneis de la communauté de la communauté de la communauté de la communauté de la communauté de la communauté
+
+MODEL: basic | ID: 18d737010a0a1b5a
+ENGLISH: Swap them with other tokens
+FRENCH REFERENCE: Les échanger contre d'autres jetons
+MODEL TRANSLATION: Signal les jetons l'Ethereum
+
+MODEL: basic | ID: 0dd24185451abc31
+ENGLISH: What sets ZK-STARKs apart from ZK-SNARKs?
+FRENCH REFERENCE: Qu'est-ce qui distingue les ZK-STARK des ZK-SNARK ?
+MODEL TRANSLATION: En savoir plus sur les réseaux de la feuille de route d'Ethereum
+
+MODEL: basic | ID: d9bcc1a8661ec6f2
+ENGLISH: Private keys stay safe because key derivation only runs one way, not because of the nonce.
+FRENCH REFERENCE: Les clés privées restent en sécurité car la dérivation de clé ne fonctionne que dans un sens, et non grâce au nonce.
+MODEL TRANSLATION: Sécurité d'une de blocs sur les stablecoins.
+
+MODEL: basic | ID: c3cf1e8ddf098e6e
+ENGLISH: The term ‘Web3’ was first coined by:
+FRENCH REFERENCE: Le terme « Web3 » a été inventé par :
+MODEL TRANSLATION: La plateforme de transaction
+
+MODEL: basic | ID: f2e44b10b0d0de4e
+ENGLISH: The Merge happened later than this. October 31st is the day the Bitcoin Whitepaper was released.
+FRENCH REFERENCE: La Fusion a eu lieu plus tard. Le 31 octobre correspond au jour de la publication du livre blanc de Bitcoin.
+MODEL TRANSLATION: La chaîne balise est une l'ETH) est un nœud d'Ethereum.
+
+MODEL: basic | ID: 40b90d95876a43b9
+ENGLISH: Web2 does not have native, built-in payments.
+FRENCH REFERENCE: Le Web2 n'a pas de paiements natifs intégrés.
+MODEL TRANSLATION: Une infrastructure de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la communauté, de la
+
+MODEL: basic | ID: d4a81b169d44ec5b
+ENGLISH: Every user re-uploads a copy of the blockchain each day
+FRENCH REFERENCE: Chaque utilisateur téléverse à nouveau une copie de la chaîne de blocs chaque jour
+MODEL TRANSLATION: Signalent des jetons en ligneent les réseaux de la décentralisé à la décentralisé à la décentralisé à la décentralisé à la décentralisé à la décentralisé
+
+MODEL: basic | ID: 84007bf351ca64f1
+ENGLISH: Ethereum was co-founded by 8 individuals who helped bring Ethereum to life.
+FRENCH REFERENCE: Ethereum a été cofondé par 8 personnes qui ont contribué à donner vie à Ethereum.
+MODEL TRANSLATION: Signalent l'Ethereum. Vous auc'Ethereum.
+
+MODEL: basic | ID: 0861da85255b1c27
+ENGLISH: Nothing: you take the risk and hope the stranger repays
+FRENCH REFERENCE: Rien : vous prenez le risque et espérez que l'inconnu vous rembourse
+MODEL TRANSLATION: Le l'Ethereum et le réseau de la couche d'Ethereum
+
+MODEL: basic | ID: c28a695bd266f772
+ENGLISH: Financial applications whose side effects benefit the environment
+FRENCH REFERENCE: Applications financières dont les effets secondaires sont bénéfiques pour l'environnement
+MODEL TRANSLATION: Signalent des jetons. Les opérateurs du réseau qui l'Ethereum.
+
+MODEL: basic | ID: 3c2a4295f7f09d69
+ENGLISH: No bank account is involved. This is why Ethereum reaches people in regions with limited banking infrastructure.
+FRENCH REFERENCE: Aucun compte bancaire n'est impliqué. C'est pourquoi Ethereum est accessible aux personnes dans les régions où l'infrastructure bancaire est limitée.
+MODEL TRANSLATION: Sécurité d'Ethereum.
+
+MODEL: basic | ID: 7349a9c5311939e6
+ENGLISH: Ethereum can only process one transaction at a time, so they wait in line
+FRENCH REFERENCE: Ethereum ne peut traiter qu'une seule transaction à la fois, elles attendent donc dans une file d'attente
+MODEL TRANSLATION: Le process de gaz de développement en ligne
+
+MODEL: basic | ID: 0fed73800fc1ffbc
+ENGLISH: Collateral for crypto loans
+FRENCH REFERENCE: Collatéral pour les prêts crypto
+MODEL TRANSLATION: Le est une plateforme de sécurité des contrats intelligents
+
+MODEL: basic | ID: dd0d8f22e12a2913
+ENGLISH: Ethereum isn't controlled by any single organization—it is decentralized.
+FRENCH REFERENCE: Ethereum n'est contrôlé par aucune organisation unique : il est décentralisé.
+MODEL TRANSLATION: La plateforme d'Ethereum.
+
+MODEL: basic | ID: 41915bf2e4fe6ae0
+ENGLISH: How Ethereum grows beyond mainnet, and how validators and node operators keep the network running.
+FRENCH REFERENCE: Comment Ethereum se développe au-delà du réseau principal, et comment les validateurs et les opérateurs de nœuds maintiennent le réseau en fonctionnement.
+MODEL TRANSLATION: En savoir plus sur les actifs numériques de la chaîne de blocs Ethereum et la chaîne de blocs Ethereum.
+
+MODEL: basic | ID: d47763cd41be9d2e
+ENGLISH: Make all rollups conform to the same method of security
+FRENCH REFERENCE: Faire en sorte que tous les rollups se conforment à la même méthode de sécurité
+MODEL TRANSLATION: En savoir plus sur les réseaux de la chaîne de la chaîne de blocs Ethereum de la chaîne de la chaîne de blocs Ethereum de blocs Ethereum de blocs Ethereum de blocs Ethereum de blocs Ethereum de blocs
+
+MODEL: basic | ID: 2b48546095230832
+ENGLISH: Ethereum transactions cannot be reversed. Anyone who tells you otherwise might be trying to scam you.
+FRENCH REFERENCE: Les transactions Ethereum ne peuvent pas être annulées. Quiconque vous dit le contraire essaie peut-être de vous arnaquer.
+MODEL TRANSLATION: Le process vous avez un nœud Ethereum.
+
+MODEL: basic | ID: 4b1e05b76f9221eb
+ENGLISH: Ethereum's state also holds a machine state that can execute arbitrary code
+FRENCH REFERENCE: L'état d'Ethereum contient également un état de machine qui peut exécuter du code arbitraire
+MODEL TRANSLATION: Sécurité d'Ethereum de couche d'Ethereum
+
+MODEL: basic | ID: 3ed5d62739035a0b
+ENGLISH: Find out how well you understand Ethereum and cryptocurrencies. Are you ready to become an expert?
+FRENCH REFERENCE: Découvrez à quel point vous comprenez Ethereum et les cryptomonnaies. Êtes-vous prêt à devenir un expert ?
+MODEL TRANSLATION: Sécurité d'Ethereum, d'Ethereum.
+
+MODEL: mt5 | ID: cdda03b5f11bc4be
+ENGLISH: What does the regenerative finance (ReFi) community build on Ethereum?
+FRENCH REFERENCE: Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?
+MODEL TRANSLATION: <extra_id_0> Ethereum ?
+
+MODEL: mt5 | ID: 42b69c521edeb193
+ENGLISH: Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.
+FRENCH REFERENCE: La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.
+MODEL TRANSLATION: <extra_id_0> à l'ensemble des infrastructures de l'infrastructure.
+
+MODEL: mt5 | ID: 884a15bcaa21b5fd
+ENGLISH: Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.
+FRENCH REFERENCE: Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.
+MODEL TRANSLATION: <extra_id_0> est une système de calculer les circuits utilisés dans les arithmes et les circuits utilisés dans les arithmes de l'informatique.
+
+MODEL: mt5 | ID: 6e7b69b1669a0621
+ENGLISH: Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.
+FRENCH REFERENCE: Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.
+MODEL TRANSLATION: <extra_id_0> uses 0.0026 terawatt pour year.
+
+MODEL: mt5 | ID: 673ab94e261dcd05
+ENGLISH: True of Ethereum, but that is settlement speed, not programmability.
+FRENCH REFERENCE: C'est vrai pour Ethereum, mais il s'agit de la vitesse de règlement, et non de la programmabilité.
+MODEL TRANSLATION: <extra_id_0> Ethereum, donc l'Ethereum, donc l'Ethereum, donc l'Ethereum, donc l'Ethereum, donc l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l
+
+MODEL: mt5 | ID: 9c5f9bbaa78fd3e6
+ENGLISH: Neither network places any limits on its supply
+FRENCH REFERENCE: Aucun des deux réseaux n'impose de limites à son offre
+MODEL TRANSLATION: <extra_id_0> n'est l'offre de l'infrastructure
+
+MODEL: mt5 | ID: 29d5ee4767fc2718
+ENGLISH: If a staker tries to cheat the network, they risk losing their ETH
+FRENCH REFERENCE: Si un staker essaie de tromper le réseau, il risque de perdre ses ETH
+MODEL TRANSLATION: <extra_id_0> peut faire une société à l'ETH
+
+MODEL: mt5 | ID: 68adf251a0fe3c72
+ENGLISH: It is a token that is tied to an asset in the real world
+FRENCH REFERENCE: C'est un jeton qui est lié à un actif dans le monde réel
+MODEL TRANSLATION: <extra_id_0> est une token de token de token de l'objet de la société
+
+MODEL: mt5 | ID: 1b59ed3bd7dac14d
+ENGLISH: That describes central bank policy. Ethereum's issuance is predictable and no authority adjusts it.
+FRENCH REFERENCE: Cela décrit la politique d'une banque centrale. L'émission d'Ethereum est prévisible et aucune autorité ne l'ajuste.
+MODEL TRANSLATION: <extra_id_0> l'hypothèse de l'indépendance.
+
+MODEL: mt5 | ID: 6f58ec4ec68dc5cf
+ENGLISH: Stablecoins are built for steady value, not a set return. The network pays no interest on them.
+FRENCH REFERENCE: Les stablecoins sont conçus pour conserver une valeur stable, et non pour offrir un rendement fixe. Le réseau ne verse aucun intérêt sur ces derniers.
+MODEL TRANSLATION: <extra_id_0> est built pour l'échange de l'argent.
+
+MODEL: mt5 | ID: 9e02102fb8ff556b
+ENGLISH: STARKs slow down faster than SNARKs as the witness grows
+FRENCH REFERENCE: Les STARK ralentissent plus rapidement que les SNARK à mesure que le témoin grandit
+MODEL TRANSLATION: <extra_id_0> s'est encore à la veille.
+
+MODEL: mt5 | ID: e3aa05e4fc4253e1
+ENGLISH: You passed the quiz!
+FRENCH REFERENCE: Vous avez réussi le quiz !
+MODEL TRANSLATION: <extra_id_0> passes la quiz!
+
+MODEL: mt5 | ID: cedc50baf9d7659b
+ENGLISH: Timing transactions during off-peak hours can lower gas costs.
+FRENCH REFERENCE: Planifier les transactions pendant les heures creuses peut réduire les coûts de gaz.
+MODEL TRANSLATION: <extra_id_0> à l'heure.
+
+MODEL: mt5 | ID: 18d737010a0a1b5a
+ENGLISH: Swap them with other tokens
+FRENCH REFERENCE: Les échanger contre d'autres jetons
+MODEL TRANSLATION: <extra_id_0> avec des tokens à la connexion
+
+MODEL: mt5 | ID: 0dd24185451abc31
+ENGLISH: What sets ZK-STARKs apart from ZK-SNARKs?
+FRENCH REFERENCE: Qu'est-ce qui distingue les ZK-STARK des ZK-SNARK ?
+MODEL TRANSLATION: <extra_id_0> sont ZK-STARKs ?
+
+MODEL: mt5 | ID: d9bcc1a8661ec6f2
+ENGLISH: Private keys stay safe because key derivation only runs one way, not because of the nonce.
+FRENCH REFERENCE: Les clés privées restent en sécurité car la dérivation de clé ne fonctionne que dans un sens, et non grâce au nonce.
+MODEL TRANSLATION: <extra_id_0> est une fois avec la nonce.
+
+MODEL: mt5 | ID: c3cf1e8ddf098e6e
+ENGLISH: The term ‘Web3’ was first coined by:
+FRENCH REFERENCE: Le terme « Web3 » a été inventé par :
+MODEL TRANSLATION: <extra_id_0> est à l'étiquette
+
+MODEL: mt5 | ID: f2e44b10b0d0de4e
+ENGLISH: The Merge happened later than this. October 31st is the day the Bitcoin Whitepaper was released.
+FRENCH REFERENCE: La Fusion a eu lieu plus tard. Le 31 octobre correspond au jour de la publication du livre blanc de Bitcoin.
+MODEL TRANSLATION: <extra_id_0> est le jour de la semaine de la semaine.
+
+MODEL: mt5 | ID: 40b90d95876a43b9
+ENGLISH: Web2 does not have native, built-in payments.
+FRENCH REFERENCE: Le Web2 n'a pas de paiements natifs intégrés.
+MODEL TRANSLATION: <extra_id_0> peut être fournir un paquet de payments.
+
+MODEL: mt5 | ID: d4a81b169d44ec5b
+ENGLISH: Every user re-uploads a copy of the blockchain each day
+FRENCH REFERENCE: Chaque utilisateur téléverse à nouveau une copie de la chaîne de blocs chaque jour
+MODEL TRANSLATION: <extra_id_0> peut faire un copieur de la blockchain à l'utilisateur.
+
+MODEL: mt5 | ID: 84007bf351ca64f1
+ENGLISH: Ethereum was co-founded by 8 individuals who helped bring Ethereum to life.
+FRENCH REFERENCE: Ethereum a été cofondé par 8 personnes qui ont contribué à donner vie à Ethereum.
+MODEL TRANSLATION: <extra_id_0> Ethereum est co-fondé par 8 individus qui ont Ethereum à domicile.
+
+MODEL: mt5 | ID: 0861da85255b1c27
+ENGLISH: Nothing: you take the risk and hope the stranger repays
+FRENCH REFERENCE: Rien : vous prenez le risque et espérez que l'inconnu vous rembourse
+MODEL TRANSLATION: <extra_id_0> vous prendre la risk et vous prendre la risk et vous prendre la risk et vous prendre la risk et vous prendre la risk.
+
+MODEL: mt5 | ID: c28a695bd266f772
+ENGLISH: Financial applications whose side effects benefit the environment
+FRENCH REFERENCE: Applications financières dont les effets secondaires sont bénéfiques pour l'environnement
+MODEL TRANSLATION: <extra_id_0> que l'environnement sont à la consommation
+
+MODEL: mt5 | ID: 3c2a4295f7f09d69
+ENGLISH: No bank account is involved. This is why Ethereum reaches people in regions with limited banking infrastructure.
+FRENCH REFERENCE: Aucun compte bancaire n'est impliqué. C'est pourquoi Ethereum est accessible aux personnes dans les régions où l'infrastructure bancaire est limitée.
+MODEL TRANSLATION: <extra_id_0> est l'infrastructure Ethereum.
+
+MODEL: mt5 | ID: 7349a9c5311939e6
+ENGLISH: Ethereum can only process one transaction at a time, so they wait in line
+FRENCH REFERENCE: Ethereum ne peut traiter qu'une seule transaction à la fois, elles attendent donc dans une file d'attente
+MODEL TRANSLATION: <extra_id_0> Ethereum peut prendre une transaction à l'instant, so la transaction à l'instant.
+
+MODEL: mt5 | ID: 0fed73800fc1ffbc
+ENGLISH: Collateral for crypto loans
+FRENCH REFERENCE: Collatéral pour les prêts crypto
+MODEL TRANSLATION: <extra_id_0> pour cryptos à cryptos
+
+MODEL: mt5 | ID: dd0d8f22e12a2913
+ENGLISH: Ethereum isn't controlled by any single organization—it is decentralized.
+FRENCH REFERENCE: Ethereum n'est contrôlé par aucune organisation unique : il est décentralisé.
+MODEL TRANSLATION: <extra_id_0> est decentralizé par un groupe de personnes à Ethereum
+
+MODEL: mt5 | ID: 41915bf2e4fe6ae0
+ENGLISH: How Ethereum grows beyond mainnet, and how validators and node operators keep the network running.
+FRENCH REFERENCE: Comment Ethereum se développe au-delà du réseau principal, et comment les validateurs et les opérateurs de nœuds maintiennent le réseau en fonctionnement.
+MODEL TRANSLATION: <extra_id_0> Ethereum est encore intégré à la connexion.
+
+MODEL: mt5 | ID: d47763cd41be9d2e
+ENGLISH: Make all rollups conform to the same method of security
+FRENCH REFERENCE: Faire en sorte que tous les rollups se conforment à la même méthode de sécurité
+MODEL TRANSLATION: <extra_id_0> à la meilleur technique de protection
+
+MODEL: mt5 | ID: 2b48546095230832
+ENGLISH: Ethereum transactions cannot be reversed. Anyone who tells you otherwise might be trying to scam you.
+FRENCH REFERENCE: Les transactions Ethereum ne peuvent pas être annulées. Quiconque vous dit le contraire essaie peut-être de vous arnaquer.
+MODEL TRANSLATION: <extra_id_0> peut être vendu.
+
+MODEL: mt5 | ID: 4b1e05b76f9221eb
+ENGLISH: Ethereum's state also holds a machine state that can execute arbitrary code
+FRENCH REFERENCE: L'état d'Ethereum contient également un état de machine qui peut exécuter du code arbitraire
+MODEL TRANSLATION: <extra_id_0> a l'état de Ethereum
+
+MODEL: mt5 | ID: 3ed5d62739035a0b
+ENGLISH: Find out how well you understand Ethereum and cryptocurrencies. Are you ready to become an expert?
+FRENCH REFERENCE: Découvrez à quel point vous comprenez Ethereum et les cryptomonnaies. Êtes-vous prêt à devenir un expert ?
+MODEL TRANSLATION: <extra_id_0> vous êtes ready pour être un expert?

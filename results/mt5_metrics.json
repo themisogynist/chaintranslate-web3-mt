@@ -1,0 +1,21 @@
+{
+  "model": "mt5",
+  "model_id": "google/mt5-small",
+  "parameters": 300176768,
+  "trainable_parameters": 344064,
+  "adaptation": "LoRA fine-tuning, 3 epochs, validation checkpoint selection",
+  "training_seconds": 523.2168131029994,
+  "tokenizer": "google/mt5-small",
+  "pretrained_revision": "73fb5dbe4756edadc8fbe8c769b0a109493acf7a",
+  "bleu": 1.4438492988054603,
+  "chrf": 18.04078187059644,
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+  "test_pairs": 32,
+  "inference_seconds": 29.68166346399812,
+  "device": "cpu",
+  "torch": "2.14.1+cpu",
+  "max_new_tokens": 96,
+  "decoding": "greedy, one beam",
+  "warmup_excluded": 1
+}

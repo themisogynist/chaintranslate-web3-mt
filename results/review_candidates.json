@@ -1,0 +1,137 @@
+[
+  {
+    "model": "basic",
+    "id": "42b69c521edeb193",
+    "missing_numbers": [
+      "1"
+    ],
+    "added_numbers": [],
+    "missing_terms": [],
+    "empty": false
+  },
+  {
+    "model": "basic",
+    "id": "6e7b69b1669a0621",
+    "missing_numbers": [
+      "0.0026",
+      "0.451"
+    ],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  },
+  {
+    "model": "basic",
+    "id": "673ab94e261dcd05",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  },
+  {
+    "model": "basic",
+    "id": "29d5ee4767fc2718",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "ETH"
+    ],
+    "empty": false
+  },
+  {
+    "model": "basic",
+    "id": "f2e44b10b0d0de4e",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Bitcoin"
+    ],
+    "empty": false
+  },
+  {
+    "model": "basic",
+    "id": "84007bf351ca64f1",
+    "missing_numbers": [
+      "8"
+    ],
+    "added_numbers": [],
+    "missing_terms": [],
+    "empty": false
+  },
+  {
+    "model": "basic",
+    "id": "7349a9c5311939e6",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  },
+  {
+    "model": "mt5",
+    "id": "42b69c521edeb193",
+    "missing_numbers": [
+      "1"
+    ],
+    "added_numbers": [],
+    "missing_terms": [],
+    "empty": false
+  },
+  {
+    "model": "mt5",
+    "id": "6e7b69b1669a0621",
+    "missing_numbers": [
+      "0.451"
+    ],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  },
+  {
+    "model": "mt5",
+    "id": "1b59ed3bd7dac14d",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  },
+  {
+    "model": "mt5",
+    "id": "f2e44b10b0d0de4e",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Bitcoin"
+    ],
+    "empty": false
+  },
+  {
+    "model": "mt5",
+    "id": "2b48546095230832",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  },
+  {
+    "model": "mt5",
+    "id": "3ed5d62739035a0b",
+    "missing_numbers": [],
+    "added_numbers": [],
+    "missing_terms": [
+      "Ethereum"
+    ],
+    "empty": false
+  }
+]
