@@ -70,6 +70,14 @@ Each experiment writes model-specific outputs and can be run independently. A re
 
 The notebook checks model access before launching training, runs experiments in a separate `runs/` directory, and exports the new outputs without overwriting the published measurements. CPU installations can use the [PyTorch CPU package index](https://download.pytorch.org/whl/cpu) for the pinned PyTorch version.
 
+### Colab dependency recovery
+
+The notebook removes Colab's optional `torchvision` package before installation because this text-only benchmark does not use it. A preinstalled `torchvision` build may not match the pinned PyTorch version and can prevent Transformers from importing mT5 with `RuntimeError: operator torchvision::nms does not exist`. The setup now checks all three pretrained model-class imports in a fresh process before training.
+
+For an existing affected Colab session, run `python -m pip uninstall -y torchvision` using the notebook's Python interpreter, then retry the failed experiment in its existing output directory. Experiment subprocesses start with fresh imports, so a runtime restart is not required for this recovery. The tokenizer legacy and dtype deprecation warnings are separate from this import failure.
+
+The training cell streams subprocess output and retains `run_dir` when retried. Models with metrics, translations and temperature outputs are skipped. To intentionally start a new experiment, assign a new `run_dir` first. Reporting still validates all recorded predictions before accepting results.
+
 ## Results obtained and model comparison
 
 | Model | BLEU ↑ | chrF ↑ | Training/adaptation seconds | Test inference seconds | Base parameters |
