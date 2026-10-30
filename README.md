@@ -4,9 +4,6 @@ English-to-French translation of Ethereum interface and educational text.
 
 [Open notebook in Colab](https://colab.research.google.com/github/themisogynist/chaintranslate-web3-mt/blob/main/ChainTranslate.ipynb) · [Results](RESULTS.md) · [Analysis](docs/analysis.md) · [Translation samples](results/translations.txt)
 
-**Assignment 3 · ICT 4403 · Foundations of Generative AI**  
-Suraj Shuban · Registration **230953492** · MAHE, MIT Manipal
-
 ## Problem statement and objective
 
 Web3 applications need translations that preserve technical meaning, quantities and security warnings. ChainTranslate compares a Transformer trained from scratch, a fine-tuned multilingual encoder-decoder, and two prompted decoder-only models on a public Ethereum parallel corpus. The objective is to measure translation quality and computational cost, and examine errors with ethical consequences. This is an experimental translation benchmark; the measured systems are not suitable for unattended publication.
