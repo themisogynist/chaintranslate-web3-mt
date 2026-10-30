@@ -16,4 +16,4 @@ The review examines actual translations from the same held-out English/French te
 
 The corpus contains public educational/interface strings and no private wallet credentials. It is not a representative evaluation of all social groups or sensitive translation scenarios. Pretraining may include ethereum.org text, so benchmark contamination is possible for pretrained models even though the experiment's own train and test files are disjoint. Model size, pretraining and adaptation differences must be considered when comparing encoder-decoder and decoder-only systems.
 
-Output-level findings for completed runs appear in `docs/analysis.md`. The four-model review remains incomplete until all required outputs are measured.
+Output-level findings for completed runs appear in `docs/analysis.md`. The review covers measured outputs from all four required models.

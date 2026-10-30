@@ -1,0 +1,110 @@
+[
+  {
+    "model": "gemma",
+    "id": "cdda03b5f11bc4be",
+    "temperature": 0.5,
+    "seed": 42,
+    "source": "What does the regenerative finance (ReFi) community build on Ethereum?",
+    "reference": "Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?",
+    "prediction": "What does the regenerative finance (ReFi) community build on Ethereum?"
+  },
+  {
+    "model": "gemma",
+    "id": "42b69c521edeb193",
+    "temperature": 0.5,
+    "seed": 42,
+    "source": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.",
+    "reference": "La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.",
+    "prediction": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale."
+  },
+  {
+    "model": "gemma",
+    "id": "884a15bcaa21b5fd",
+    "temperature": 0.5,
+    "seed": 42,
+    "source": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.",
+    "reference": "Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.",
+    "prediction": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems."
+  },
+  {
+    "model": "gemma",
+    "id": "6e7b69b1669a0621",
+    "temperature": 0.5,
+    "seed": 42,
+    "source": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.",
+    "reference": "Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.",
+    "prediction": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year."
+  },
+  {
+    "model": "gemma",
+    "id": "cdda03b5f11bc4be",
+    "temperature": 1.0,
+    "seed": 42,
+    "source": "What does the regenerative finance (ReFi) community build on Ethereum?",
+    "reference": "Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?",
+    "prediction": "What does the regenerative finance (ReFi) community build on Ethereum?"
+  },
+  {
+    "model": "gemma",
+    "id": "42b69c521edeb193",
+    "temperature": 1.0,
+    "seed": 42,
+    "source": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.",
+    "reference": "La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.",
+    "prediction": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale."
+  },
+  {
+    "model": "gemma",
+    "id": "884a15bcaa21b5fd",
+    "temperature": 1.0,
+    "seed": 42,
+    "source": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.",
+    "reference": "Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.",
+    "prediction": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems."
+  },
+  {
+    "model": "gemma",
+    "id": "6e7b69b1669a0621",
+    "temperature": 1.0,
+    "seed": 42,
+    "source": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.",
+    "reference": "Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.",
+    "prediction": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year."
+  },
+  {
+    "model": "gemma",
+    "id": "cdda03b5f11bc4be",
+    "temperature": 1.5,
+    "seed": 42,
+    "source": "What does the regenerative finance (ReFi) community build on Ethereum?",
+    "reference": "Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?",
+    "prediction": "What does the regenerative financial (ReFi) community build on Ethereum?"
+  },
+  {
+    "model": "gemma",
+    "id": "42b69c521edeb193",
+    "temperature": 1.5,
+    "seed": 42,
+    "source": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.",
+    "reference": "La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.",
+    "prediction": "First Responder Linux massively increases security and decentralization by eliminating pay-per-use AUC."
+  },
+  {
+    "model": "gemma",
+    "id": "884a15bcaa21b5fd",
+    "temperature": 1.5,
+    "seed": 42,
+    "source": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.",
+    "reference": "Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.",
+    "prediction": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems."
+  },
+  {
+    "model": "gemma",
+    "id": "6e7b69b1669a0621",
+    "temperature": 1.5,
+    "seed": 42,
+    "source": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.",
+    "reference": "Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.",
+    "prediction": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "model": "llama",
+  "model_id": "meta-llama/Llama-3.2-1B-Instruct",
+  "parameters": 1235814400,
+  "trainable_parameters": 0,
+  "adaptation": "three-shot prompting; no fine-tuning",
+  "training_seconds": null,
+  "tokenizer": "meta-llama/Llama-3.2-1B-Instruct",
+  "pretrained_revision": "9213176726f574b556790deb65791e0c5aa438b6",
+  "bleu": 36.7071743220743,
+  "chrf": 62.65055784748025,
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+  "test_pairs": 32,
+  "inference_seconds": 610.6904737030004,
+  "device": "cpu",
+  "torch": "2.14.1+cu130",
+  "max_new_tokens": 96,
+  "decoding": "greedy, one beam",
+  "warmup_excluded": 1
+}

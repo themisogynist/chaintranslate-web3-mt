@@ -1,0 +1,258 @@
+[
+  {
+    "model": "llama",
+    "id": "cdda03b5f11bc4be",
+    "source": "What does the regenerative finance (ReFi) community build on Ethereum?",
+    "reference": "Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?",
+    "prediction": "Quelques-uns des communautés de financement rénovateur (ReFi) qui construisent sur Ethereum.",
+    "inference_seconds": 25.351718480999807
+  },
+  {
+    "model": "llama",
+    "id": "42b69c521edeb193",
+    "source": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.",
+    "reference": "La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.",
+    "prediction": "Les réseaux alternatives de niveau 1 les plus populaires sacrifice la sécurité et la décentralisation pour atteindre la vitesse de dépôt.",
+    "inference_seconds": 27.311409830999764
+  },
+  {
+    "model": "llama",
+    "id": "884a15bcaa21b5fd",
+    "source": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.",
+    "reference": "Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.",
+    "prediction": "Circom est une langue de domaine spécifique et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuve à faible connaissances.",
+    "inference_seconds": 28.698132633000114
+  },
+  {
+    "model": "llama",
+    "id": "6e7b69b1669a0621",
+    "source": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.",
+    "reference": "Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.",
+    "prediction": "Netflix utilise environ 0,451 TWh par an. Ethereum utilise environ 0,0026 TWh par an.",
+    "inference_seconds": 21.866213749000053
+  },
+  {
+    "model": "llama",
+    "id": "673ab94e261dcd05",
+    "source": "True of Ethereum, but that is settlement speed, not programmability.",
+    "reference": "C'est vrai pour Ethereum, mais il s'agit de la vitesse de règlement, et non de la programmabilité.",
+    "prediction": "Vrai pour Ethereum, mais ce n'est pas la vitesse de dépôt, mais la programmabilité.",
+    "inference_seconds": 18.23014480999973
+  },
+  {
+    "model": "llama",
+    "id": "9c5f9bbaa78fd3e6",
+    "source": "Neither network places any limits on its supply",
+    "reference": "Aucun des deux réseaux n'impose de limites à son offre",
+    "prediction": "Aucun réseau ne limite pas la quantité de sa supply.",
+    "inference_seconds": 15.622947020000083
+  },
+  {
+    "model": "llama",
+    "id": "29d5ee4767fc2718",
+    "source": "If a staker tries to cheat the network, they risk losing their ETH",
+    "reference": "Si un staker essaie de tromper le réseau, il risque de perdre ses ETH",
+    "prediction": "Si un staker essaie de tricher la réseau, il risque de perdre ses ETH.",
+    "inference_seconds": 20.303878636000263
+  },
+  {
+    "model": "llama",
+    "id": "68adf251a0fe3c72",
+    "source": "It is a token that is tied to an asset in the real world",
+    "reference": "C'est un jeton qui est lié à un actif dans le monde réel",
+    "prediction": "Il s'agit d'un token lié à un actif réel.",
+    "inference_seconds": 16.06582595100008
+  },
+  {
+    "model": "llama",
+    "id": "1b59ed3bd7dac14d",
+    "source": "That describes central bank policy. Ethereum's issuance is predictable and no authority adjusts it.",
+    "reference": "Cela décrit la politique d'une banque centrale. L'émission d'Ethereum est prévisible et aucune autorité ne l'ajuste.",
+    "prediction": "Cela décrit la politique monétaire du banquier central. L'émission d'Ethereum est prévisible et n'a pas d'autorité qui la modifie.",
+    "inference_seconds": 25.289885864999633
+  },
+  {
+    "model": "llama",
+    "id": "6f58ec4ec68dc5cf",
+    "source": "Stablecoins are built for steady value, not a set return. The network pays no interest on them.",
+    "reference": "Les stablecoins sont conçus pour conserver une valeur stable, et non pour offrir un rendement fixe. Le réseau ne verse aucun intérêt sur ces derniers.",
+    "prediction": "Les monnaies stables sont construites pour maintenir une valeur stable, et non un rendement fixe. Le réseau n'offre pas d'intérêt sur elles.",
+    "inference_seconds": 28.514962762999858
+  },
+  {
+    "model": "llama",
+    "id": "9e02102fb8ff556b",
+    "source": "STARKs slow down faster than SNARKs as the witness grows",
+    "reference": "Les STARK ralentissent plus rapidement que les SNARK à mesure que le témoin grandit",
+    "prediction": "Les STARKs ralentissent plus rapidement que les SNARKs à mesure que le témoignage grandit.",
+    "inference_seconds": 18.558100277999984
+  },
+  {
+    "model": "llama",
+    "id": "e3aa05e4fc4253e1",
+    "source": "You passed the quiz!",
+    "reference": "Vous avez réussi le quiz !",
+    "prediction": "Tu as passé le quiz!",
+    "inference_seconds": 9.913009493000118
+  },
+  {
+    "model": "llama",
+    "id": "cedc50baf9d7659b",
+    "source": "Timing transactions during off-peak hours can lower gas costs.",
+    "reference": "Planifier les transactions pendant les heures creuses peut réduire les coûts de gaz.",
+    "prediction": "Ralentir les transactions pendant les heures de pointe peut réduire les coûts de gaz.",
+    "inference_seconds": 17.303008085999863
+  },
+  {
+    "model": "llama",
+    "id": "18d737010a0a1b5a",
+    "source": "Swap them with other tokens",
+    "reference": "Les échanger contre d'autres jetons",
+    "prediction": "Échanger avec d'autres tokens.",
+    "inference_seconds": 10.27728551600012
+  },
+  {
+    "model": "llama",
+    "id": "0dd24185451abc31",
+    "source": "What sets ZK-STARKs apart from ZK-SNARKs?",
+    "reference": "Qu'est-ce qui distingue les ZK-STARK des ZK-SNARK ?",
+    "prediction": "Qu'est-ce qui distingue les ZK-STARKs des ZK-SNARKs?",
+    "inference_seconds": 16.254978734999895
+  },
+  {
+    "model": "llama",
+    "id": "d9bcc1a8661ec6f2",
+    "source": "Private keys stay safe because key derivation only runs one way, not because of the nonce.",
+    "reference": "Les clés privées restent en sécurité car la dérivation de clé ne fonctionne que dans un sens, et non grâce au nonce.",
+    "prediction": "La clé secrète reste protégée parce que le derivation de clé se fait uniquement dans une direction, et pas parce du nonce.",
+    "inference_seconds": 22.785899535000226
+  },
+  {
+    "model": "llama",
+    "id": "c3cf1e8ddf098e6e",
+    "source": "The term ‘Web3’ was first coined by:",
+    "reference": "Le terme « Web3 » a été inventé par :",
+    "prediction": "Le terme « Web3 » a été d'abord prononcé par",
+    "inference_seconds": 13.963889214000119
+  },
+  {
+    "model": "llama",
+    "id": "f2e44b10b0d0de4e",
+    "source": "The Merge happened later than this. October 31st is the day the Bitcoin Whitepaper was released.",
+    "reference": "La Fusion a eu lieu plus tard. Le 31 octobre correspond au jour de la publication du livre blanc de Bitcoin.",
+    "prediction": "Le Merge a eu lieu plus tard que ce que l'on avait prévu. Le Bitcoin Whitepaper a été révélé le 31 octobre.",
+    "inference_seconds": 23.228615857000023
+  },
+  {
+    "model": "llama",
+    "id": "40b90d95876a43b9",
+    "source": "Web2 does not have native, built-in payments.",
+    "reference": "Le Web2 n'a pas de paiements natifs intégrés.",
+    "prediction": "Le Web2 n'a pas de paiements natives, intégrés.",
+    "inference_seconds": 14.809855789999801
+  },
+  {
+    "model": "llama",
+    "id": "d4a81b169d44ec5b",
+    "source": "Every user re-uploads a copy of the blockchain each day",
+    "reference": "Chaque utilisateur téléverse à nouveau une copie de la chaîne de blocs chaque jour",
+    "prediction": "Chaque utilisateur ré-uplote une copie du blocchain chaque jour",
+    "inference_seconds": 13.944472872999995
+  },
+  {
+    "model": "llama",
+    "id": "84007bf351ca64f1",
+    "source": "Ethereum was co-founded by 8 individuals who helped bring Ethereum to life.",
+    "reference": "Ethereum a été cofondé par 8 personnes qui ont contribué à donner vie à Ethereum.",
+    "prediction": "Ethereum a été fondé par 8 individus qui ont contribué à faire naître Ethereum.",
+    "inference_seconds": 16.63127886600023
+  },
+  {
+    "model": "llama",
+    "id": "0861da85255b1c27",
+    "source": "Nothing: you take the risk and hope the stranger repays",
+    "reference": "Rien : vous prenez le risque et espérez que l'inconnu vous rembourse",
+    "prediction": "Tu prends le risque et espères que l'étranger te rend.",
+    "inference_seconds": 14.91446669600009
+  },
+  {
+    "model": "llama",
+    "id": "c28a695bd266f772",
+    "source": "Financial applications whose side effects benefit the environment",
+    "reference": "Applications financières dont les effets secondaires sont bénéfiques pour l'environnement",
+    "prediction": "Applications financières bénéficiant de l'environnement.",
+    "inference_seconds": 13.074976124999921
+  },
+  {
+    "model": "llama",
+    "id": "3c2a4295f7f09d69",
+    "source": "No bank account is involved. This is why Ethereum reaches people in regions with limited banking infrastructure.",
+    "reference": "Aucun compte bancaire n'est impliqué. C'est pourquoi Ethereum est accessible aux personnes dans les régions où l'infrastructure bancaire est limitée.",
+    "prediction": "Aucun compte bancaire impliqué. C'est pourquoi Ethereum atteint les gens dans les régions avec des infrastructures bancaires limitées.",
+    "inference_seconds": 22.515192134000245
+  },
+  {
+    "model": "llama",
+    "id": "7349a9c5311939e6",
+    "source": "Ethereum can only process one transaction at a time, so they wait in line",
+    "reference": "Ethereum ne peut traiter qu'une seule transaction à la fois, elles attendent donc dans une file d'attente",
+    "prediction": "L'Ethereum ne peut traiter qu'une transaction à la fois, donc ils attendent dans la queue",
+    "inference_seconds": 17.095782725999925
+  },
+  {
+    "model": "llama",
+    "id": "0fed73800fc1ffbc",
+    "source": "Collateral for crypto loans",
+    "reference": "Collatéral pour les prêts crypto",
+    "prediction": "Collatéral pour les prêts cryptomonnaies",
+    "inference_seconds": 12.393555461999767
+  },
+  {
+    "model": "llama",
+    "id": "dd0d8f22e12a2913",
+    "source": "Ethereum isn't controlled by any single organization—it is decentralized.",
+    "reference": "Ethereum n'est contrôlé par aucune organisation unique : il est décentralisé.",
+    "prediction": "L'Ethereum n'est pas contrôlé par aucune organisation, il est décentralisé.",
+    "inference_seconds": 17.36282301900019
+  },
+  {
+    "model": "llama",
+    "id": "41915bf2e4fe6ae0",
+    "source": "How Ethereum grows beyond mainnet, and how validators and node operators keep the network running.",
+    "reference": "Comment Ethereum se développe au-delà du réseau principal, et comment les validateurs et les opérateurs de nœuds maintiennent le réseau en fonctionnement.",
+    "prediction": "Comment Ethereum grandit au-delà du mainnet, et comment les validateurs et les opérateurs de réseau maintiennent la continuité du réseau.",
+    "inference_seconds": 28.713820194000164
+  },
+  {
+    "model": "llama",
+    "id": "d47763cd41be9d2e",
+    "source": "Make all rollups conform to the same method of security",
+    "reference": "Faire en sorte que tous les rollups se conforment à la même méthode de sécurité",
+    "prediction": "Conformer tous les rollups à la même méthode de sécurité.",
+    "inference_seconds": 15.142500671000107
+  },
+  {
+    "model": "llama",
+    "id": "2b48546095230832",
+    "source": "Ethereum transactions cannot be reversed. Anyone who tells you otherwise might be trying to scam you.",
+    "reference": "Les transactions Ethereum ne peuvent pas être annulées. Quiconque vous dit le contraire essaie peut-être de vous arnaquer.",
+    "prediction": "Les transactions d'Ethereum ne peuvent pas être réversées. Ne vous laissez pas tromper par quelqu'un qui vous dit autrement.",
+    "inference_seconds": 21.651890778000052
+  },
+  {
+    "model": "llama",
+    "id": "4b1e05b76f9221eb",
+    "source": "Ethereum's state also holds a machine state that can execute arbitrary code",
+    "reference": "L'état d'Ethereum contient également un état de machine qui peut exécuter du code arbitraire",
+    "prediction": "Le statut d'Ethereum contient également un état de machine qui peut exécuter du code arbitraire.",
+    "inference_seconds": 21.176662539000063
+  },
+  {
+    "model": "llama",
+    "id": "3ed5d62739035a0b",
+    "source": "Find out how well you understand Ethereum and cryptocurrencies. Are you ready to become an expert?",
+    "reference": "Découvrez à quel point vous comprenez Ethereum et les cryptomonnaies. Êtes-vous prêt à devenir un expert ?",
+    "prediction": "Apprenez comment vous comprenez Ethereum et les cryptomonnaies. Est-ce que vous êtes prêt à devenir un expert?",
+    "inference_seconds": 21.72328937700013
+  }
+]

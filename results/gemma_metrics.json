@@ -1,0 +1,21 @@
+{
+  "model": "gemma",
+  "model_id": "google/gemma-3-270m-it",
+  "parameters": 268098176,
+  "trainable_parameters": 0,
+  "adaptation": "three-shot prompting; no fine-tuning",
+  "training_seconds": null,
+  "tokenizer": "google/gemma-3-270m-it",
+  "pretrained_revision": "ac82b4e820549b854eebf28ce6dedaf9fdfa17b3",
+  "bleu": 0.8939693015184336,
+  "chrf": 25.552226805772204,
+  "bleu_signature": "nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+  "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+  "test_pairs": 32,
+  "inference_seconds": 94.68389285100056,
+  "device": "cpu",
+  "torch": "2.14.1+cu130",
+  "max_new_tokens": 96,
+  "decoding": "greedy, one beam",
+  "warmup_excluded": 1
+}

@@ -1,17 +1,17 @@
 [
   {
     "epoch": 1,
-    "train_loss": 13.425814419984818,
-    "validation_loss": 4.933089323880379
+    "train_loss": 13.615249752998352,
+    "validation_loss": 5.389363954109058
   },
   {
     "epoch": 2,
-    "train_loss": 5.839596755802631,
-    "validation_loss": 3.514025524708263
+    "train_loss": 5.9830565974116325,
+    "validation_loss": 3.64218419961762
   },
   {
     "epoch": 3,
-    "train_loss": 5.1760463416576385,
-    "validation_loss": 3.247532877671091
+    "train_loss": 5.210434429347515,
+    "validation_loss": 3.366688857831453
   }
 ]

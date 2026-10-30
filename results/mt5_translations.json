@@ -5,231 +5,231 @@
     "source": "What does the regenerative finance (ReFi) community build on Ethereum?",
     "reference": "Que construit la communauté de la finance régénérative (ReFi) sur Ethereum ?",
     "prediction": "<extra_id_0> Ethereum ?",
-    "inference_seconds": 0.550936843999807
+    "inference_seconds": 0.4322359239999969
   },
   {
     "model": "mt5",
     "id": "42b69c521edeb193",
     "source": "Most alternative layer 1 networks sacrifice on both security and decentralization in order to scale.",
     "reference": "La plupart des réseaux alternatifs de couche 1 (l1) sacrifient à la fois la sécurité et la décentralisation afin de se mettre à l'échelle.",
-    "prediction": "<extra_id_0> à l'ensemble des infrastructures de l'infrastructure.",
-    "inference_seconds": 1.789147461999164
+    "prediction": "<extra_id_0> l'intégration des réseaux de l'infrastructure.",
+    "inference_seconds": 1.5479045150000275
   },
   {
     "model": "mt5",
     "id": "884a15bcaa21b5fd",
     "source": "Circom is a domain-specific language and compiler for writing and compiling arithmetic circuits used in zero-knowledge proof systems.",
     "reference": "Circom est un langage spécifique à un domaine et un compilateur pour écrire et compiler des circuits arithmétiques utilisés dans les systèmes de preuves à divulgation nulle de connaissance.",
-    "prediction": "<extra_id_0> est une système de calculer les circuits utilisés dans les arithmes et les circuits utilisés dans les arithmes de l'informatique.",
-    "inference_seconds": 2.0401305539999157
+    "prediction": "<extra_id_0>com est une numérisation de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse de l'analyse.",
+    "inference_seconds": 8.556877858999997
   },
   {
     "model": "mt5",
     "id": "6e7b69b1669a0621",
     "source": "Netflix uses ~0.451 terawatt hours per year. Ethereum uses about 0.0026 terawatt hours per year.",
     "reference": "Netflix utilise environ 0,451 térawattheure par an. Ethereum utilise environ 0,0026 térawattheure par an.",
-    "prediction": "<extra_id_0> uses 0.0026 terawatt pour year.",
-    "inference_seconds": 0.5415802600000461
+    "prediction": "<extra_id_0> uses $0.451 terawatt pour year.",
+    "inference_seconds": 1.2560062400002607
   },
   {
     "model": "mt5",
     "id": "673ab94e261dcd05",
     "source": "True of Ethereum, but that is settlement speed, not programmability.",
     "reference": "C'est vrai pour Ethereum, mais il s'agit de la vitesse de règlement, et non de la programmabilité.",
-    "prediction": "<extra_id_0> Ethereum, donc l'Ethereum, donc l'Ethereum, donc l'Ethereum, donc l'Ethereum, donc l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l'Ethereum, l",
-    "inference_seconds": 5.819098333000511
+    "prediction": "<extra_id_0> Ethereum, donc l'évaluation de l'Ethereum, donc l'évaluation.",
+    "inference_seconds": 2.408625026000209
   },
   {
     "model": "mt5",
     "id": "9c5f9bbaa78fd3e6",
     "source": "Neither network places any limits on its supply",
     "reference": "Aucun des deux réseaux n'impose de limites à son offre",
-    "prediction": "<extra_id_0> n'est l'offre de l'infrastructure",
-    "inference_seconds": 1.0316349220011034
+    "prediction": "<extra_id_0> n'importe quel réseau de la supply de l'offre de la supply de l'offre de la supply de l'offre de la supply.",
+    "inference_seconds": 4.926990057999774
   },
   {
     "model": "mt5",
     "id": "29d5ee4767fc2718",
     "source": "If a staker tries to cheat the network, they risk losing their ETH",
     "reference": "Si un staker essaie de tromper le réseau, il risque de perdre ses ETH",
-    "prediction": "<extra_id_0> peut faire une société à l'ETH",
-    "inference_seconds": 0.8397699500001181
+    "prediction": "<extra_id_0> peut prendre la sécurité de la sécurité.",
+    "inference_seconds": 2.5625491669998155
   },
   {
     "model": "mt5",
     "id": "68adf251a0fe3c72",
     "source": "It is a token that is tied to an asset in the real world",
     "reference": "C'est un jeton qui est lié à un actif dans le monde réel",
-    "prediction": "<extra_id_0> est une token de token de token de l'objet de la société",
-    "inference_seconds": 1.040843541999493
+    "prediction": "<extra_id_0> est une token de token de l'appareil de l'appareil de la société.",
+    "inference_seconds": 2.603801032999854
   },
   {
     "model": "mt5",
     "id": "1b59ed3bd7dac14d",
     "source": "That describes central bank policy. Ethereum's issuance is predictable and no authority adjusts it.",
     "reference": "Cela décrit la politique d'une banque centrale. L'émission d'Ethereum est prévisible et aucune autorité ne l'ajuste.",
-    "prediction": "<extra_id_0> l'hypothèse de l'indépendance.",
-    "inference_seconds": 0.6250491310001962
+    "prediction": "<extra_id_0> fournit Ethereum.",
+    "inference_seconds": 0.8303836660002162
   },
   {
     "model": "mt5",
     "id": "6f58ec4ec68dc5cf",
     "source": "Stablecoins are built for steady value, not a set return. The network pays no interest on them.",
     "reference": "Les stablecoins sont conçus pour conserver une valeur stable, et non pour offrir un rendement fixe. Le réseau ne verse aucun intérêt sur ces derniers.",
-    "prediction": "<extra_id_0> est built pour l'échange de l'argent.",
-    "inference_seconds": 0.7809666689990991
+    "prediction": "<extra_id_0> fournit des coins.",
+    "inference_seconds": 0.6966788790000464
   },
   {
     "model": "mt5",
     "id": "9e02102fb8ff556b",
     "source": "STARKs slow down faster than SNARKs as the witness grows",
     "reference": "Les STARK ralentissent plus rapidement que les SNARK à mesure que le témoin grandit",
-    "prediction": "<extra_id_0> s'est encore à la veille.",
-    "inference_seconds": 0.6676606880009786
+    "prediction": "<extra_id_0> s'enquête continuera à la veille.",
+    "inference_seconds": 1.0669092439998167
   },
   {
     "model": "mt5",
     "id": "e3aa05e4fc4253e1",
     "source": "You passed the quiz!",
     "reference": "Vous avez réussi le quiz !",
-    "prediction": "<extra_id_0> passes la quiz!",
-    "inference_seconds": 0.2891693519995897
+    "prediction": "<extra_id_0> passeez le quiz!",
+    "inference_seconds": 0.5950274860001628
   },
   {
     "model": "mt5",
     "id": "cedc50baf9d7659b",
     "source": "Timing transactions during off-peak hours can lower gas costs.",
     "reference": "Planifier les transactions pendant les heures creuses peut réduire les coûts de gaz.",
-    "prediction": "<extra_id_0> à l'heure.",
-    "inference_seconds": 0.40278027200110955
+    "prediction": "<extra_id_0> à l'expélation",
+    "inference_seconds": 0.9338089610000679
   },
   {
     "model": "mt5",
     "id": "18d737010a0a1b5a",
     "source": "Swap them with other tokens",
     "reference": "Les échanger contre d'autres jetons",
-    "prediction": "<extra_id_0> avec des tokens à la connexion",
-    "inference_seconds": 0.5561104110001907
+    "prediction": "<extra_id_0> des tokens de tokens",
+    "inference_seconds": 0.6399486029999935
   },
   {
     "model": "mt5",
     "id": "0dd24185451abc31",
     "source": "What sets ZK-STARKs apart from ZK-SNARKs?",
     "reference": "Qu'est-ce qui distingue les ZK-STARK des ZK-SNARK ?",
-    "prediction": "<extra_id_0> sont ZK-STARKs ?",
-    "inference_seconds": 0.5780432880001172
+    "prediction": "<extra_id_0> sont les ZK-STARKs à l'OS?",
+    "inference_seconds": 1.2323847679999744
   },
   {
     "model": "mt5",
     "id": "d9bcc1a8661ec6f2",
     "source": "Private keys stay safe because key derivation only runs one way, not because of the nonce.",
     "reference": "Les clés privées restent en sécurité car la dérivation de clé ne fonctionne que dans un sens, et non grâce au nonce.",
-    "prediction": "<extra_id_0> est une fois avec la nonce.",
-    "inference_seconds": 0.5784588609985803
+    "prediction": "<extra_id_0> n'est à la nonce.",
+    "inference_seconds": 2.104409899000075
   },
   {
     "model": "mt5",
     "id": "c3cf1e8ddf098e6e",
     "source": "The term ‘Web3’ was first coined by:",
     "reference": "Le terme « Web3 » a été inventé par :",
-    "prediction": "<extra_id_0> est à l'étiquette",
-    "inference_seconds": 0.508885964000001
+    "prediction": "<extra_id_0> est l'équivalent à la société 'Web3’ est l'équivalent à la société :",
+    "inference_seconds": 3.772634401000232
   },
   {
     "model": "mt5",
     "id": "f2e44b10b0d0de4e",
     "source": "The Merge happened later than this. October 31st is the day the Bitcoin Whitepaper was released.",
     "reference": "La Fusion a eu lieu plus tard. Le 31 octobre correspond au jour de la publication du livre blanc de Bitcoin.",
-    "prediction": "<extra_id_0> est le jour de la semaine de la semaine.",
-    "inference_seconds": 0.7592462770007842
+    "prediction": "<extra_id_0> l'événement de la Merge.",
+    "inference_seconds": 1.1017872309998893
   },
   {
     "model": "mt5",
     "id": "40b90d95876a43b9",
     "source": "Web2 does not have native, built-in payments.",
     "reference": "Le Web2 n'a pas de paiements natifs intégrés.",
-    "prediction": "<extra_id_0> peut être fournir un paquet de payments.",
-    "inference_seconds": 0.7849156729989772
+    "prediction": "<extra_id_0> n'est fournir l'argent avec l'argent.",
+    "inference_seconds": 1.8307471520001855
   },
   {
     "model": "mt5",
     "id": "d4a81b169d44ec5b",
     "source": "Every user re-uploads a copy of the blockchain each day",
     "reference": "Chaque utilisateur téléverse à nouveau une copie de la chaîne de blocs chaque jour",
-    "prediction": "<extra_id_0> peut faire un copieur de la blockchain à l'utilisateur.",
-    "inference_seconds": 0.8327159780001239
+    "prediction": "<extra_id_0> peut faire un copie de la blockchain à la blockchain à la blockchain l'un utilisateur.",
+    "inference_seconds": 2.559373121000135
   },
   {
     "model": "mt5",
     "id": "84007bf351ca64f1",
     "source": "Ethereum was co-founded by 8 individuals who helped bring Ethereum to life.",
     "reference": "Ethereum a été cofondé par 8 personnes qui ont contribué à donner vie à Ethereum.",
-    "prediction": "<extra_id_0> Ethereum est co-fondé par 8 individus qui ont Ethereum à domicile.",
-    "inference_seconds": 0.9936150129997259
+    "prediction": "<extra_id_0> Ethereum est co-fondé par 8 individus qui ont Ethereum à la vie.",
+    "inference_seconds": 2.0801126770002156
   },
   {
     "model": "mt5",
     "id": "0861da85255b1c27",
     "source": "Nothing: you take the risk and hope the stranger repays",
     "reference": "Rien : vous prenez le risque et espérez que l'inconnu vous rembourse",
-    "prediction": "<extra_id_0> vous prendre la risk et vous prendre la risk et vous prendre la risk et vous prendre la risk et vous prendre la risk.",
-    "inference_seconds": 1.5948841319986968
+    "prediction": "<extra_id_0> vous prendre la risk et vous prendre la risk et vous prendre la risk.",
+    "inference_seconds": 4.2746260510002685
   },
   {
     "model": "mt5",
     "id": "c28a695bd266f772",
     "source": "Financial applications whose side effects benefit the environment",
     "reference": "Applications financières dont les effets secondaires sont bénéfiques pour l'environnement",
-    "prediction": "<extra_id_0> que l'environnement sont à la consommation",
-    "inference_seconds": 0.635674803999791
+    "prediction": "<extra_id_0> que l'impact sont les autres à la consommation",
+    "inference_seconds": 1.4809262200001285
   },
   {
     "model": "mt5",
     "id": "3c2a4295f7f09d69",
     "source": "No bank account is involved. This is why Ethereum reaches people in regions with limited banking infrastructure.",
     "reference": "Aucun compte bancaire n'est impliqué. C'est pourquoi Ethereum est accessible aux personnes dans les régions où l'infrastructure bancaire est limitée.",
-    "prediction": "<extra_id_0> est l'infrastructure Ethereum.",
-    "inference_seconds": 0.45206990299993777
+    "prediction": "<extra_id_0> est l'Ethereum à Ethereum.",
+    "inference_seconds": 0.952450133000184
   },
   {
     "model": "mt5",
     "id": "7349a9c5311939e6",
     "source": "Ethereum can only process one transaction at a time, so they wait in line",
     "reference": "Ethereum ne peut traiter qu'une seule transaction à la fois, elles attendent donc dans une file d'attente",
-    "prediction": "<extra_id_0> Ethereum peut prendre une transaction à l'instant, so la transaction à l'instant.",
-    "inference_seconds": 1.1231542530003935
+    "prediction": "<extra_id_0> Ethereum peut prendre une transaction de transaction à l'heure, so Ethereum peut prendre une transaction de transaction à l'heure.",
+    "inference_seconds": 2.8900468560000263
   },
   {
     "model": "mt5",
     "id": "0fed73800fc1ffbc",
     "source": "Collateral for crypto loans",
     "reference": "Collatéral pour les prêts crypto",
-    "prediction": "<extra_id_0> pour cryptos à cryptos",
-    "inference_seconds": 0.36353533800138393
+    "prediction": "<extra_id_0> pour cryptocurrencies de cryptos",
+    "inference_seconds": 0.6278657510001722
   },
   {
     "model": "mt5",
     "id": "dd0d8f22e12a2913",
     "source": "Ethereum isn't controlled by any single organization—it is decentralized.",
     "reference": "Ethereum n'est contrôlé par aucune organisation unique : il est décentralisé.",
-    "prediction": "<extra_id_0> est decentralizé par un groupe de personnes à Ethereum",
-    "inference_seconds": 0.826460442998723
+    "prediction": "<extra_id_0> est decentralizé par un groupe de l'organisation.",
+    "inference_seconds": 1.5456636680000884
   },
   {
     "model": "mt5",
     "id": "41915bf2e4fe6ae0",
     "source": "How Ethereum grows beyond mainnet, and how validators and node operators keep the network running.",
     "reference": "Comment Ethereum se développe au-delà du réseau principal, et comment les validateurs et les opérateurs de nœuds maintiennent le réseau en fonctionnement.",
-    "prediction": "<extra_id_0> Ethereum est encore intégré à la connexion.",
-    "inference_seconds": 0.7539630240007682
+    "prediction": "<extra_id_0> Ethereum est encore intégré dans les nodes de l'Ethereum, et les nodes sont à l'Ethereum.",
+    "inference_seconds": 3.1324314089997642
   },
   {
     "model": "mt5",
     "id": "d47763cd41be9d2e",
     "source": "Make all rollups conform to the same method of security",
     "reference": "Faire en sorte que tous les rollups se conforment à la même méthode de sécurité",
-    "prediction": "<extra_id_0> à la meilleur technique de protection",
-    "inference_seconds": 0.39743674700002884
+    "prediction": "<extra_id_0> à la meilleure opération de protection",
+    "inference_seconds": 2.682428532999893
   },
   {
     "model": "mt5",
@@ -237,22 +237,22 @@
     "source": "Ethereum transactions cannot be reversed. Anyone who tells you otherwise might be trying to scam you.",
     "reference": "Les transactions Ethereum ne peuvent pas être annulées. Quiconque vous dit le contraire essaie peut-être de vous arnaquer.",
     "prediction": "<extra_id_0> peut être vendu.",
-    "inference_seconds": 0.3955173089998425
+    "inference_seconds": 0.8975768999998763
   },
   {
     "model": "mt5",
     "id": "4b1e05b76f9221eb",
     "source": "Ethereum's state also holds a machine state that can execute arbitrary code",
     "reference": "L'état d'Ethereum contient également un état de machine qui peut exécuter du code arbitraire",
-    "prediction": "<extra_id_0> a l'état de Ethereum",
-    "inference_seconds": 0.4589803580001899
+    "prediction": "<extra_id_0> utilise une machine de l'Ethereum",
+    "inference_seconds": 1.0598325619998832
   },
   {
     "model": "mt5",
     "id": "3ed5d62739035a0b",
     "source": "Find out how well you understand Ethereum and cryptocurrencies. Are you ready to become an expert?",
     "reference": "Découvrez à quel point vous comprenez Ethereum et les cryptomonnaies. Êtes-vous prêt à devenir un expert ?",
-    "prediction": "<extra_id_0> vous êtes ready pour être un expert?",
-    "inference_seconds": 0.6692277089987329
+    "prediction": "<extra_id_0>vous ready pour être un expert?",
+    "inference_seconds": 1.0699437030002628
   }
 ]

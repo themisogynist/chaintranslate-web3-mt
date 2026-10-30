@@ -1,0 +1,20 @@
+{
+  "source_archive": "20261030T182236Z_measured_results.zip",
+  "source_archive_sha256": "f5661d7c042e66ee266c46dab7fd3b17c7ededcd5eba08b56be5320860336473",
+  "completed_models": [
+    "basic",
+    "mt5",
+    "llama",
+    "gemma"
+  ],
+  "test_pairs_per_model": 32,
+  "temperature_samples_per_model": 12,
+  "data_sha256": {
+    "train": "73cc9ff0d7013c98875594044dc2b650dc7a49d8f687535cfe3b38cfeb4d57d7",
+    "validation": "28a22239056e145fa1933da4e73689d1fe03a90c35ca846d0b643f6269c18695",
+    "test": "f21a4f75f948c15cf9a97612e657a6bd17b241a75b1a4ee7115ad7c10dd6a0ef"
+  },
+  "verification": "Four primary metric pairs and twelve temperature metric pairs recomputed with SacreBLEU 2.6.0; test IDs, source strings, references, split separation and inference-time sums checked.",
+  "environment": "All four runs report CPU and torch 2.14.1+cu130. The CUDA-capable build does not imply GPU execution.",
+  "timing_note": "Sequential model executions with an interrupted mT5 dependency setup and subsequent retry. Timings exclude failed startup and model downloads; Colab resource variability remains."
+}

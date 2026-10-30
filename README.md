@@ -11,7 +11,7 @@ Suraj Shuban · Registration **230953492** · MAHE, MIT Manipal
 
 Web3 applications need translations that preserve technical meaning, quantities and security warnings. ChainTranslate compares a Transformer trained from scratch, a fine-tuned multilingual encoder-decoder, and two prompted decoder-only models on a public Ethereum parallel corpus. The objective is to measure translation quality and computational cost, and examine errors with ethical consequences. This is an experimental translation benchmark; the measured systems are not suitable for unattended publication.
 
-**Experiment status:** basic Transformer and mT5 results are measured. Official LLaMA and Gemma runs are pending approved model access. Consequently, the four-model evaluation is incomplete; only measured systems are ranked.
+**Experiment status:** all four required models have completed the same held-out test set. The published results contain 128 test translations and 48 temperature samples, verified against their raw outputs. LLaMA achieves the highest BLEU and chrF.
 
 ## Dataset and provenance
 
@@ -42,11 +42,11 @@ Pinned model revisions are recorded in `chaintranslate/experiment.py`. The basic
 
 All models receive the same English test strings and French references, identical test ordering, a 96-token output limit and greedy single-beam decoding for the main comparison. Both prompted models receive the same three training examples and instruction through their native chat templates. No validation/test examples appear in prompts. Random seeds are 42. The temperature experiment uses the same first four test pairs at 0.5, 1.0 and 1.5, with full-vocabulary sampling and seed 42.
 
-The adaptation strategies, parameter counts, pretraining and tokenizers necessarily differ. Equal token limits do not imply equal word limits. This is a comparison of concrete systems, not a controlled causal test of architecture alone. The current CPU runs overlapped in execution; timing is descriptive and cannot establish a reliable speed ranking. The notebook runs all models sequentially for a more comparable hardware session.
+The adaptation strategies, parameter counts, pretraining and tokenizers necessarily differ. Equal token limits do not imply equal word limits. This is a comparison of concrete systems, not a controlled causal test of architecture alone. The published Colab model executions were sequential, with a dependency failure before mT5 loaded and a subsequent retry. All four runs report CPU execution with two PyTorch threads. Colab resource variability and different output lengths make timings descriptive rather than an isolated architecture-speed benchmark.
 
 ## Execution and dependencies
 
-Python 3.12 was used for the measured runs. Core dependencies are PyTorch, Transformers, PEFT, Accelerate, SentencePiece, SacreBLEU, NumPy and Matplotlib; versions are in [requirements.txt](requirements.txt). GPU acceleration is recommended for the pretrained models; CPU execution is supported but slower. Model downloads need internet access and sufficient disk space.
+The final measurements were exported from a Python 3.13 Colab session; the original development environment used Python 3.12. Core dependencies are PyTorch, Transformers, PEFT, Accelerate, SentencePiece, SacreBLEU, NumPy and Matplotlib; versions are in [requirements.txt](requirements.txt). GPU acceleration is recommended for the pretrained models; CPU execution is supported but slower. Model downloads need internet access and sufficient disk space.
 
 ```bash
 git clone https://github.com/themisogynist/chaintranslate-web3-mt.git
@@ -82,20 +82,28 @@ The training cell streams subprocess output and retains `run_dir` when retried. 
 
 | Model | BLEU ↑ | chrF ↑ | Training/adaptation seconds | Test inference seconds | Base parameters |
 |---|---:|---:|---:|---:|---:|
-| Basic Transformer | 0.44 | 13.16 | 134.99 | 2.49 | 1,177,040 |
-| mT5-small + LoRA | 1.44 | 18.04 | 523.22 | 29.68 | 300,176,768 |
-| LLaMA | Pending | Pending | Not applicable: prompting | Pending | Measured on load |
-| Gemma | Pending | Pending | Not applicable: prompting | Pending | Measured on load |
+| basic | 0.36 | 13.10 | 206.27 | 3.61 | 1,177,040 |
+| mt5 | 1.49 | 17.16 | 1102.46 | 64.35 | 300,176,768 |
+| llama | 36.71 | 62.65 | N/A (prompting) | 610.69 | 1,235,814,400 |
+| gemma | 0.89 | 25.55 | N/A (prompting) | 94.68 | 268,098,176 |
 
-Scores use corpus-level SacreBLEU 2.6.0 BLEU with 13a tokenization and chrF (character order 6, beta 2, no word n-grams), on a 0–100 scale. Complete signatures, hardware and per-item inference times are retained. Adaptation time includes training, validation and checkpoint writes but excludes downloads; inference includes tokenization and decoding and excludes one warm-up call. These are single runs on a small test set, without confidence intervals.
+Scores use corpus-level SacreBLEU 2.6.0 BLEU with 13a tokenization and chrF (character order 6, beta 2, no word n-grams), on a 0–100 scale. All primary and temperature scores were recomputed from the raw translations. Adaptation time includes training, validation and checkpoint writes but excludes downloads; inference includes tokenization and decoding and excludes one warm-up call. Prompted models have no training-time measurement, rather than a measured zero. All four runs used CPU, despite the CUDA-capable PyTorch build name. These are single runs on 32 test pairs, without confidence intervals.
 
-mT5 improves BLEU by 1.00 and chrF by 4.88 points over the basic model, but both exhibit major semantic omissions and repetition. mT5 frequently emits `<extra_id_0>`, reflecting an unresolved mismatch between its pretrained behavior and the short adaptation run. Raw decoded output is preserved and scored without manually cleaning these artifacts. The basic model's falling training loss and rising later validation loss indicate overfitting; validation selects an earlier checkpoint.
+**LLaMA is the best-performing system:** BLEU 36.71 and chrF 62.65. It usually translates into French and preserves important quantities and warnings, although grammar and domain interpretation still fail on some examples. Its test inference time is the largest, at 610.69 seconds for 32 inputs, and its approximately 1.24 billion parameters exceed the other systems.
 
-See [generated results](RESULTS.md), [raw translations](results/translations.txt), [machine-readable translations](results/translations.csv), [score plot](results/scores.png), [learning curves](results/learning_curves.png) and [qualitative analysis](docs/analysis.md). All 32 measured test outputs per completed model are retained, including failures.
+The basic Transformer overfits the small training corpus; minimum validation loss selects epoch 19 of 30. mT5 selects epoch 3 of three but emits `<extra_id_0>` in all 32 outputs and frequently omits meaning, showing insufficient task adaptation. Gemma exactly copies 28/32 English sources; the remaining four outputs also remain in English with punctuation, wording or omission changes. Its chrF of 25.55 must not be mistaken for adequate French translation: shared names, cognates and character fragments can overlap with references even when the target-language instruction is not followed. mT5 has higher BLEU than Gemma despite lower chrF.
+
+The strongest decoder-only system outperforms these encoder-decoder baselines, but the other decoder-only system fails to translate. Model size, pretraining, tokenizer and adaptation differ, so the results do not establish inherent superiority of one architecture. Raw outputs, including failures, are retained without manual correction.
+
+See [results tables](RESULTS.md), [raw translations](results/translations.txt), [CSV translations](results/translations.csv), [scores](results/scores.png), [learning curves](results/learning_curves.png), [run provenance](results/run_metadata.json) and [qualitative analysis](docs/analysis.md).
 
 ## Sampling-temperature analysis
 
-Temperature scales logits before sampling: lower values concentrate probability on preferred tokens; higher values flatten the distribution. This does not guarantee faithfulness. The same four source texts are sampled at all three values for each completed model. [Temperature metrics](results/temperature_metrics.json), [raw samples](results/temperature_samples.json) and the [analysis](docs/analysis.md) preserve the comparison. Four examples and one sampling seed are exploratory, not a robust ranking. Greedy results above remain the primary comparison; no favorable temperature is selected using test scores and then presented as an independent test result.
+The same first four test pairs are sampled at temperatures **0.5, 1.0 and 1.5**, with seed 42, top-k disabled, top-p 1 and the same output cap. Lower temperatures concentrate probability on likely tokens; higher temperatures broaden sampling, but do not necessarily improve diversity or meaning.
+
+For LLaMA, temperature 0.5 obtains BLEU 24.67 / chrF 61.90; 1.0 obtains 21.03 / 53.36; 1.5 falls to 0.28 / 16.79 and increases repeated-bigram fraction to 0.313. Thus **0.5 is the best tested sampling temperature for LLaMA on this exploratory subset**. Greedy decoding remains the main 32-pair evaluation; these smaller-sample scores are not directly comparable to the full-test scores.
+
+Gemma produces identical samples at 0.5 and 1.0 and largely copies English at every temperature. Higher temperature does not rescue target-language compliance. The weak basic/mT5 systems can gain character overlap while generating longer, less faithful output, illustrating why chrF alone is insufficient. [Temperature metrics](results/temperature_metrics.json), [all 48 samples](results/temperature_samples.json) and the [analysis](docs/analysis.md) report coherence, diversity and repetition. Four examples and one random seed do not establish an optimal temperature generally.
 
 ## Ethical analysis
 
@@ -103,7 +111,9 @@ The [output-based analysis](docs/analysis.md) records omissions, repetitions and
 
 ## Conclusion
 
-**mT5 is the better-performing of the two measured models** on both BLEU and chrF. Its absolute quality remains inadequate for reliable Web3 translation. A best model across all four systems and an encoder-decoder versus decoder-only conclusion remain undetermined until the official LLaMA and Gemma runs are complete. More training data, validation-led adaptation and larger, independently reviewed test sets are needed before any production claim.
+**LLaMA 3.2 1B Instruct is the best-performing model in this experiment**, leading both BLEU and chrF and providing the most faithful French translations among the four tested systems. Temperature 0.5 offers the strongest sampled results on the four-example exploration, while the main benchmark uses greedy decoding. LLaMA's quality advantage comes with greater parameter count and longer measured CPU inference time.
+
+The basic Transformer and lightly adapted mT5 require substantially better training before practical use. Gemma 3 270M IT does not reliably follow the French-translation task under this prompting setup. Even the best system needs bilingual domain review before publishing financial or security material. Conclusions are limited to this small Ethereum corpus and these specific models and adaptation methods.
 
 ## Repository organization
 
